@@ -53,7 +53,10 @@
     "Running time (int)": 83,
     "Budget (float)": 1500000.0,
     "Box office (float)": 418000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pinocchio",
@@ -109,7 +112,10 @@
     "Running time (int)": 88,
     "Budget (float)": 2600000.0,
     "Box office (float)": 164000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Fantasia",
@@ -155,7 +161,10 @@
     "Running time (int)": 126,
     "Budget (float)": 2280000.0,
     "Box office (float)": 83300000.0,
-    "Release date (datetime)": "November 13, 1940"
+    "Release date (datetime)": "November 13, 1940",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Reluctant Dragon",
@@ -217,7 +226,10 @@
     "Running time (int)": 74,
     "Budget (float)": 600000.0,
     "Box office (float)": 960000.0,
-    "Release date (datetime)": "June 27, 1941"
+    "Release date (datetime)": "June 27, 1941",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Dumbo",
@@ -268,7 +280,10 @@
     "Running time (int)": 64,
     "Budget (float)": 950000.0,
     "Box office (float)": 1300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Bambi",
@@ -320,7 +335,10 @@
     "Running time (int)": 70,
     "Budget (float)": 858000.0,
     "Box office (float)": 267399999.99999997,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Saludos Amigos",
@@ -379,7 +397,10 @@
     "Running time (int)": 42,
     "Budget (float)": null,
     "Box office (float)": 1000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Victory Through Air Power",
@@ -426,7 +447,10 @@
     "Running time (int)": 65,
     "Budget (float)": 788000.0,
     "Box office (float)": 799000.0,
-    "Release date (datetime)": "July 17, 1943"
+    "Release date (datetime)": "July 17, 1943",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Three Caballeros",
@@ -483,7 +507,10 @@
     "Running time (int)": 71,
     "Budget (float)": null,
     "Box office (float)": 3355000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Make Mine Music",
@@ -562,7 +589,10 @@
     "Running time (int)": 75,
     "Budget (float)": 1350000.0,
     "Box office (float)": 3275000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Song of the South",
@@ -619,7 +649,10 @@
     "Running time (int)": 94,
     "Budget (float)": 2125000.0,
     "Box office (float)": 65000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Fun and Fancy Free",
@@ -674,7 +707,10 @@
     "Running time (int)": 73,
     "Budget (float)": null,
     "Box office (float)": 3165000.0,
-    "Release date (datetime)": "September 27, 1947"
+    "Release date (datetime)": "September 27, 1947",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Melody Time",
@@ -734,7 +770,10 @@
     "Running time (int)": 75,
     "Budget (float)": 1500000.0,
     "Box office (float)": 2560000.0,
-    "Release date (datetime)": "May 27, 1948"
+    "Release date (datetime)": "May 27, 1948",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "So Dear to My Heart",
@@ -782,7 +821,10 @@
     "Running time (int)": 82,
     "Budget (float)": 1500000.0,
     "Box office (float)": 3700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Adventures of Ichabod and Mr. Toad",
@@ -834,7 +876,10 @@
     "Running time (int)": 68,
     "Budget (float)": null,
     "Box office (float)": 1625000.0,
-    "Release date (datetime)": "October 05, 1949"
+    "Release date (datetime)": "October 05, 1949",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Cinderella",
@@ -892,7 +937,10 @@
     "Running time (int)": 74,
     "Budget (float)": 2200000.0,
     "Box office (float)": 182000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Treasure Island",
@@ -935,7 +983,10 @@
     "Running time (int)": 96,
     "Budget (float)": 1800000.0,
     "Box office (float)": 4099999.9999999995,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Alice in Wonderland",
@@ -1001,7 +1052,10 @@
     "Running time (int)": 75,
     "Budget (float)": 3000000.0,
     "Box office (float)": 2400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Story of Robin Hood",
@@ -1035,7 +1089,10 @@
     "Running time (int)": 84,
     "Budget (float)": null,
     "Box office (float)": 2100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Peter Pan",
@@ -1086,7 +1143,10 @@
     "Running time (int)": 77,
     "Budget (float)": 4000000.0,
     "Box office (float)": 87400000.0,
-    "Release date (datetime)": "February 05, 1953"
+    "Release date (datetime)": "February 05, 1953",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Sword and the Rose",
@@ -1139,7 +1199,10 @@
     "Running time (int)": 92,
     "Budget (float)": 2000000.0,
     "Box office (float)": 1000000.0,
-    "Release date (datetime)": "July 23, 1953"
+    "Release date (datetime)": "July 23, 1953",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Living Desert",
@@ -1172,7 +1235,10 @@
     "Running time (int)": 69,
     "Budget (float)": 300000.0,
     "Box office (float)": 2600000.0,
-    "Release date (datetime)": "November 10, 1953"
+    "Release date (datetime)": "November 10, 1953",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Rob Roy: The Highland Rogue",
@@ -1209,7 +1275,10 @@
     "Running time (int)": 81,
     "Budget (float)": 1800000.0,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Vanishing Prairie",
@@ -1241,7 +1310,10 @@
     "Running time (int)": 60,
     "Budget (float)": null,
     "Box office (float)": 1750000.0,
-    "Release date (datetime)": "August 17, 1954"
+    "Release date (datetime)": "August 17, 1954",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "20,000 Leagues Under the Sea",
@@ -1275,7 +1347,10 @@
     "Running time (int)": 127,
     "Budget (float)": 5000000.0,
     "Box office (float)": 28200000.0,
-    "Release date (datetime)": "December 23, 1954"
+    "Release date (datetime)": "December 23, 1954",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Davy Crockett: King of the Wild Frontier",
@@ -1303,7 +1378,10 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": 2150000.0,
-    "Release date (datetime)": "May 25, 1955"
+    "Release date (datetime)": "May 25, 1955",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Lady and the Tramp",
@@ -1349,7 +1427,10 @@
     "Running time (int)": 76,
     "Budget (float)": 4000000.0,
     "Box office (float)": 187000000.0,
-    "Release date (datetime)": "June 22, 1955"
+    "Release date (datetime)": "June 22, 1955",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The African Lion",
@@ -1381,7 +1462,10 @@
     "Running time (int)": 75,
     "Budget (float)": null,
     "Box office (float)": 2100000.0,
-    "Release date (datetime)": "September 14, 1955"
+    "Release date (datetime)": "September 14, 1955",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Littlest Outlaw",
@@ -1410,7 +1494,10 @@
     "Running time (int)": 73,
     "Budget (float)": null,
     "Box office (float)": 1600000.0,
-    "Release date (datetime)": "December 22, 1955"
+    "Release date (datetime)": "December 22, 1955",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Great Locomotive Chase",
@@ -1440,7 +1527,10 @@
     "Running time (int)": 85,
     "Budget (float)": null,
     "Box office (float)": 1700000.0,
-    "Release date (datetime)": "June 08, 1956"
+    "Release date (datetime)": "June 08, 1956",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Davy Crockett and the River Pirates",
@@ -1474,7 +1564,10 @@
     "Running time (int)": 81,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "July 18, 1956"
+    "Release date (datetime)": "July 18, 1956",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Secrets of Life",
@@ -1513,7 +1606,10 @@
     "Running time (int)": 70,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "September 04, 1956"
+    "Release date (datetime)": "September 04, 1956",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Westward Ho the Wagons!",
@@ -1548,7 +1644,10 @@
     "Running time (int)": 90,
     "Budget (float)": null,
     "Box office (float)": 2750000.0,
-    "Release date (datetime)": "December 20, 1956"
+    "Release date (datetime)": "December 20, 1956",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Johnny Tremain",
@@ -1580,7 +1679,10 @@
     "Running time (int)": 80,
     "Budget (float)": 700000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "June 19, 1957"
+    "Release date (datetime)": "June 19, 1957",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Perri",
@@ -1625,7 +1727,10 @@
     "Running time (int)": 75,
     "Budget (float)": null,
     "Box office (float)": 1750000.0,
-    "Release date (datetime)": "August 28, 1957"
+    "Release date (datetime)": "August 28, 1957",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Old Yeller",
@@ -1668,7 +1773,10 @@
     "Running time (int)": 84,
     "Budget (float)": null,
     "Box office (float)": 6250000.0,
-    "Release date (datetime)": "December 25, 1957"
+    "Release date (datetime)": "December 25, 1957",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Light in the Forest",
@@ -1700,7 +1808,10 @@
     "Running time (int)": 83,
     "Budget (float)": null,
     "Box office (float)": 2000000.0,
-    "Release date (datetime)": "July 08, 1958"
+    "Release date (datetime)": "July 08, 1958",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "White Wilderness",
@@ -1725,7 +1836,10 @@
     "Running time (int)": 72,
     "Budget (float)": null,
     "Box office (float)": 1800000.0,
-    "Release date (datetime)": "August 12, 1958"
+    "Release date (datetime)": "August 12, 1958",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tonka",
@@ -1762,7 +1876,10 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": 2500000.0,
-    "Release date (datetime)": "December 25, 1958"
+    "Release date (datetime)": "December 25, 1958",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Sleeping Beauty",
@@ -1815,7 +1932,10 @@
     "Running time (int)": 75,
     "Budget (float)": 6000000.0,
     "Box office (float)": 51600000.0,
-    "Release date (datetime)": "January 29, 1959"
+    "Release date (datetime)": "January 29, 1959",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Shaggy Dog",
@@ -1860,7 +1980,10 @@
     "Running time (int)": 104,
     "Budget (float)": 1000000.0,
     "Box office (float)": 12300000.0,
-    "Release date (datetime)": "March 19, 1959"
+    "Release date (datetime)": "March 19, 1959",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Darby O'Gill and the Little People",
@@ -1906,7 +2029,10 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Third Man on the Mountain",
@@ -1941,7 +2067,10 @@
     "Running time (int)": 105,
     "Budget (float)": 2000000.0,
     "Box office (float)": 1700000.0,
-    "Release date (datetime)": "November 10, 1959"
+    "Release date (datetime)": "November 10, 1959",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Toby Tyler or 10 Weeks with a Circus",
@@ -1973,7 +2102,10 @@
     "Running time (int)": 95,
     "Budget (float)": null,
     "Box office (float)": 3100000.0,
-    "Release date (datetime)": "January 21, 1960"
+    "Release date (datetime)": "January 21, 1960",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Kidnapped",
@@ -2004,7 +2136,10 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "February 24, 1960"
+    "Release date (datetime)": "February 24, 1960",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pollyanna",
@@ -2037,7 +2172,10 @@
     "Running time (int)": 134,
     "Budget (float)": 2500000.0,
     "Box office (float)": 3750000.0,
-    "Release date (datetime)": "May 19, 1960"
+    "Release date (datetime)": "May 19, 1960",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Jungle Cat",
@@ -2068,7 +2206,10 @@
     "Running time (int)": 69,
     "Budget (float)": null,
     "Box office (float)": 2300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Ten Who Dared",
@@ -2106,7 +2247,10 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "November 01, 1960"
+    "Release date (datetime)": "November 01, 1960",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Swiss Family Robinson",
@@ -2151,52 +2295,10 @@
     "Running time (int)": 126,
     "Budget (float)": 4000000.0,
     "Box office (float)": 40000000.0,
-    "Release date (datetime)": "December 21, 1960"
-  },
-  {
-    "title": "One Hundred and One Dalmatians",
-    "Directed by": [
-      "Wolfgang Reitherman",
-      "Hamilton Luske",
-      "Clyde Geronimi"
-    ],
-    "Screenplay by": "Bill Peet (uncredited)",
-    "Story by": "Bill Peet",
-    "Based on": [
-      "The Hundred and One Dalmatians",
-      "by",
-      "Dodie Smith"
-    ],
-    "Produced by": "Walt Disney",
-    "Starring": [
-      "Rod Taylor",
-      "J. Pat O'Malley",
-      "Betty Lou Gerson",
-      "Martha Wentworth",
-      "Ben Wright",
-      "Cate Bauer",
-      "David Frankham",
-      "Frederick Worlock"
-    ],
-    "Edited by": [
-      "Roy M. Brewer, Jr.",
-      "Donald Halliday"
-    ],
-    "Music by": "George Bruns",
-    "Production company": "Walt Disney Productions",
-    "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "January 25, 1961"
-    ],
-    "Running time": "79 minutes",
-    "Country": "United States",
-    "Language": "English",
-    "Budget": "$3.6 million",
-    "Box office": "$303 million",
-    "Running time (int)": 79,
-    "Budget (float)": 3600000.0,
-    "Box office (float)": 303000000.0,
-    "Release date (datetime)": "January 25, 1961"
+    "Release date (datetime)": "December 21, 1960",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Absent-Minded Professor",
@@ -2237,7 +2339,10 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": 25300000.0,
-    "Release date (datetime)": "March 16, 1961"
+    "Release date (datetime)": "March 16, 1961",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Parent Trap",
@@ -2277,7 +2382,10 @@
     "Running time (int)": 128,
     "Budget (float)": null,
     "Box office (float)": 25100000.0,
-    "Release date (datetime)": "June 21, 1961"
+    "Release date (datetime)": "June 21, 1961",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Nikki: Wild Dog of the North",
@@ -2329,7 +2437,10 @@
     "Running time (int)": 73,
     "Budget (float)": null,
     "Box office (float)": 2100000.0,
-    "Release date (datetime)": "July 12, 1961"
+    "Release date (datetime)": "July 12, 1961",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Greyfriars Bobby",
@@ -2365,7 +2476,10 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": 1400000.0,
-    "Release date (datetime)": "July 17, 1961"
+    "Release date (datetime)": "July 17, 1961",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Babes in Toyland",
@@ -2413,7 +2527,10 @@
     "Running time (int)": 105,
     "Budget (float)": 3000000.0,
     "Box office (float)": 4600000.0,
-    "Release date (datetime)": "December 14, 1961"
+    "Release date (datetime)": "December 14, 1961",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Moon Pilot",
@@ -2449,7 +2566,10 @@
     "Running time (int)": 98,
     "Budget (float)": null,
     "Box office (float)": 3500000.0,
-    "Release date (datetime)": "April 05, 1962"
+    "Release date (datetime)": "April 05, 1962",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Bon Voyage!",
@@ -2489,7 +2609,10 @@
     "Running time (int)": 130,
     "Budget (float)": 3000000.0,
     "Box office (float)": 5000000.0,
-    "Release date (datetime)": "May 17, 1962"
+    "Release date (datetime)": "May 17, 1962",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Big Red",
@@ -2526,7 +2649,10 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "June 06, 1962"
+    "Release date (datetime)": "June 06, 1962",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Almost Angels",
@@ -2546,7 +2672,10 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "September 26, 1962"
+    "Release date (datetime)": "September 26, 1962",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Legend of Lobo",
@@ -2595,7 +2724,10 @@
     "Running time (int)": 67,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "November 07, 1962"
+    "Release date (datetime)": "November 07, 1962",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "In Search of the Castaways",
@@ -2642,7 +2774,10 @@
     "Running time (int)": 98,
     "Budget (float)": null,
     "Box office (float)": 21745500.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Son of Flubber",
@@ -2688,7 +2823,10 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 22100000.0,
-    "Release date (datetime)": "January 16, 1963"
+    "Release date (datetime)": "January 16, 1963",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Miracle of the White Stallions",
@@ -2728,7 +2866,10 @@
     "Running time (int)": 118,
     "Budget (float)": null,
     "Box office (float)": 2550000.0,
-    "Release date (datetime)": "March 29, 1963"
+    "Release date (datetime)": "March 29, 1963",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Savage Sam",
@@ -2771,7 +2912,10 @@
     "Running time (int)": 103,
     "Budget (float)": null,
     "Box office (float)": 3000000.0,
-    "Release date (datetime)": "June 01, 1963"
+    "Release date (datetime)": "June 01, 1963",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Summer Magic",
@@ -2816,7 +2960,10 @@
     "Running time (int)": 110,
     "Budget (float)": null,
     "Box office (float)": 4350000.0,
-    "Release date (datetime)": "July 07, 1963"
+    "Release date (datetime)": "July 07, 1963",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Incredible Journey",
@@ -2854,7 +3001,10 @@
     "Running time (int)": 80,
     "Budget (float)": null,
     "Box office (float)": 4200000.0,
-    "Release date (datetime)": "November 20, 1963"
+    "Release date (datetime)": "November 20, 1963",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Sword in the Stone",
@@ -2890,7 +3040,10 @@
     "Running time (int)": 79,
     "Budget (float)": 3000000.0,
     "Box office (float)": 22200000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "A Tiger Walks",
@@ -2926,7 +3079,10 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": 1600000.0,
-    "Release date (datetime)": "March 12, 1964"
+    "Release date (datetime)": "March 12, 1964",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Misadventures of Merlin Jones",
@@ -2961,7 +3117,10 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": 4000000.0,
-    "Release date (datetime)": "February 11, 1964"
+    "Release date (datetime)": "February 11, 1964",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Three Lives of Thomasina",
@@ -3004,7 +3163,10 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": 2250000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Moon-Spinners",
@@ -3041,7 +3203,10 @@
     "Running time (int)": 118,
     "Budget (float)": null,
     "Box office (float)": 3500000.0,
-    "Release date (datetime)": "July 02, 1964"
+    "Release date (datetime)": "July 02, 1964",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mary Poppins",
@@ -3089,7 +3254,10 @@
     "Running time (int)": 139,
     "Budget (float)": 4400000.0,
     "Box office (float)": 103100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Those Calloways",
@@ -3121,7 +3289,10 @@
     "Running time (int)": 131,
     "Budget (float)": null,
     "Box office (float)": 3500000.0,
-    "Release date (datetime)": "November 10, 1964"
+    "Release date (datetime)": "November 10, 1964",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Emil and the Detectives",
@@ -3154,7 +3325,10 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": 1275000.0,
-    "Release date (datetime)": "December 18, 1964"
+    "Release date (datetime)": "December 18, 1964",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Monkey's Uncle",
@@ -3189,7 +3363,10 @@
     "Running time (int)": 87,
     "Budget (float)": null,
     "Box office (float)": 4000000.0,
-    "Release date (datetime)": "August 18, 1965"
+    "Release date (datetime)": "August 18, 1965",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "That Darn Cat!",
@@ -3232,7 +3409,10 @@
     "Running time (int)": 116,
     "Budget (float)": null,
     "Box office (float)": 28068222.0,
-    "Release date (datetime)": "December 02, 1965"
+    "Release date (datetime)": "December 02, 1965",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Ugly Dachshund",
@@ -3268,7 +3448,10 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": 6200000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Lt. Robin Crusoe, U.S.N.",
@@ -3308,7 +3491,10 @@
     "Running time (int)": 114,
     "Budget (float)": null,
     "Box office (float)": 22565634.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Fighting Prince of Donegal",
@@ -3341,7 +3527,10 @@
     "Running time (int)": 110,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "October 01, 1966"
+    "Release date (datetime)": "October 01, 1966",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Follow Me, Boys!",
@@ -3386,7 +3575,10 @@
     "Running time (int)": 131,
     "Budget (float)": null,
     "Box office (float)": 16207116.0,
-    "Release date (datetime)": "December 01, 1966"
+    "Release date (datetime)": "December 01, 1966",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Monkeys, Go Home!",
@@ -3414,7 +3606,10 @@
     "Running time (int)": 101,
     "Budget (float)": null,
     "Box office (float)": 3000000.0,
-    "Release date (datetime)": "February 08, 1967"
+    "Release date (datetime)": "February 08, 1967",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Adventures of Bullwhip Griffin",
@@ -3451,7 +3646,10 @@
     "Running time (int)": 110,
     "Budget (float)": null,
     "Box office (float)": 1900000.0,
-    "Release date (datetime)": "June 15, 1967"
+    "Release date (datetime)": "June 15, 1967",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Gnome-Mobile",
@@ -3486,7 +3684,10 @@
     "Running time (int)": 84,
     "Budget (float)": null,
     "Box office (float)": 4000000.0,
-    "Release date (datetime)": "July 12, 1967"
+    "Release date (datetime)": "July 12, 1967",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Jungle Book",
@@ -3530,7 +3731,10 @@
     "Running time (int)": 78,
     "Budget (float)": 4000000.0,
     "Box office (float)": 378000000.0,
-    "Release date (datetime)": "October 18, 1967"
+    "Release date (datetime)": "October 18, 1967",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Charlie, the Lonesome Cougar",
@@ -3570,7 +3774,10 @@
     "Running time (int)": 75,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "October 18, 1967"
+    "Release date (datetime)": "October 18, 1967",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Happiest Millionaire",
@@ -3627,7 +3834,10 @@
     "Running time (int)": 164,
     "Budget (float)": 5000000.0,
     "Box office (float)": 5000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Blackbeard's Ghost",
@@ -3663,7 +3873,10 @@
     "Running time (int)": 106,
     "Budget (float)": null,
     "Box office (float)": 21540050.0,
-    "Release date (datetime)": "February 08, 1968"
+    "Release date (datetime)": "February 08, 1968",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The One and Only, Genuine, Original Family Band",
@@ -3703,7 +3916,10 @@
     "Running time (int)": 110,
     "Budget (float)": null,
     "Box office (float)": 2250000.0,
-    "Release date (datetime)": "March 21, 1968"
+    "Release date (datetime)": "March 21, 1968",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Never a Dull Moment",
@@ -3736,7 +3952,10 @@
     "Running time (int)": 99,
     "Budget (float)": null,
     "Box office (float)": 4150000.0,
-    "Release date (datetime)": "June 26, 1968"
+    "Release date (datetime)": "June 26, 1968",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Horse in the Gray Flannel Suit",
@@ -3771,7 +3990,10 @@
     "Running time (int)": 113,
     "Budget (float)": null,
     "Box office (float)": 3300000.0,
-    "Release date (datetime)": "December 20, 1968"
+    "Release date (datetime)": "December 20, 1968",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Love Bug",
@@ -3808,7 +4030,10 @@
     "Running time (int)": 108,
     "Budget (float)": 5000000.0,
     "Box office (float)": 51200000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Smith!",
@@ -3833,7 +4058,10 @@
     "Running time (int)": 102,
     "Budget (float)": null,
     "Box office (float)": 1300000.0,
-    "Release date (datetime)": "March 21, 1969"
+    "Release date (datetime)": "March 21, 1969",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Rascal",
@@ -3864,7 +4092,10 @@
     "Running time (int)": 85,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "June 11, 1969"
+    "Release date (datetime)": "June 11, 1969",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Computer Wore Tennis Shoes",
@@ -3893,7 +4124,10 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": 5500000.0,
-    "Release date (datetime)": "December 31, 1969"
+    "Release date (datetime)": "December 31, 1969",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "King of the Grizzlies",
@@ -3933,7 +4167,10 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "February 11, 1970"
+    "Release date (datetime)": "February 11, 1970",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Boatniks",
@@ -3966,7 +4203,10 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 18607492.0,
-    "Release date (datetime)": "July 01, 1970"
+    "Release date (datetime)": "July 01, 1970",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Wild Country",
@@ -3995,7 +4235,10 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 4000000.0,
-    "Release date (datetime)": "December 15, 1970"
+    "Release date (datetime)": "December 15, 1970",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Aristocats",
@@ -4045,7 +4288,10 @@
     "Running time (int)": 79,
     "Budget (float)": 4000000.0,
     "Box office (float)": 191000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Barefoot Executive",
@@ -4084,7 +4330,10 @@
     "Running time (int)": 96,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "March 17, 1971"
+    "Release date (datetime)": "March 17, 1971",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Scandalous John",
@@ -4111,7 +4360,10 @@
     "Running time (int)": 113,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "June 22, 1971"
+    "Release date (datetime)": "June 22, 1971",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Million Dollar Duck",
@@ -4142,7 +4394,10 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": 5100000.0,
-    "Release date (datetime)": "June 30, 1971"
+    "Release date (datetime)": "June 30, 1971",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Bedknobs and Broomsticks",
@@ -4186,7 +4441,10 @@
     "Running time (int)": 118,
     "Budget (float)": 6300000.0,
     "Box office (float)": 17900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Biscuit Eater",
@@ -4214,7 +4472,10 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "March 22, 1972"
+    "Release date (datetime)": "March 22, 1972",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Now You See Him, Now You Don't",
@@ -4242,7 +4503,10 @@
     "Running time (int)": 88,
     "Budget (float)": null,
     "Box office (float)": 4610000.0,
-    "Release date (datetime)": "July 12, 1972"
+    "Release date (datetime)": "July 12, 1972",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Napoleon and Samantha",
@@ -4268,7 +4532,10 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "July 05, 1972"
+    "Release date (datetime)": "July 05, 1972",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Run, Cougar, Run",
@@ -4302,7 +4569,10 @@
     "Running time (int)": 87,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "October 18, 1972"
+    "Release date (datetime)": "October 18, 1972",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Snowball Express",
@@ -4348,7 +4618,10 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": 6100000.0,
-    "Release date (datetime)": "December 22, 1972"
+    "Release date (datetime)": "December 22, 1972",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The World's Greatest Athlete",
@@ -4377,7 +4650,10 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": 22583370.0,
-    "Release date (datetime)": "February 01, 1973"
+    "Release date (datetime)": "February 01, 1973",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Charley and the Angel",
@@ -4414,7 +4690,10 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "March 23, 1973"
+    "Release date (datetime)": "March 23, 1973",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "One Little Indian",
@@ -4445,7 +4724,10 @@
     "Running time (int)": 90,
     "Budget (float)": null,
     "Box office (float)": 2000000.0,
-    "Release date (datetime)": "June 20, 1973"
+    "Release date (datetime)": "June 20, 1973",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Robin Hood",
@@ -4488,7 +4770,10 @@
     "Running time (int)": 83,
     "Budget (float)": 5000000.0,
     "Box office (float)": 33000000.0,
-    "Release date (datetime)": "November 08, 1973"
+    "Release date (datetime)": "November 08, 1973",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Superdad",
@@ -4520,7 +4805,10 @@
     "Running time (int)": 96,
     "Budget (float)": null,
     "Box office (float)": 7000000.0,
-    "Release date (datetime)": "December 14, 1973"
+    "Release date (datetime)": "December 14, 1973",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Herbie Rides Again",
@@ -4553,7 +4841,10 @@
     "Running time (int)": 88,
     "Budget (float)": null,
     "Box office (float)": 38200000.0,
-    "Release date (datetime)": "June 06, 1974"
+    "Release date (datetime)": "June 06, 1974",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Bears and I",
@@ -4587,7 +4878,10 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": 4000000.0,
-    "Release date (datetime)": "July 31, 1974"
+    "Release date (datetime)": "July 31, 1974",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Castaway Cowboy",
@@ -4617,7 +4911,10 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 01, 1974"
+    "Release date (datetime)": "August 01, 1974",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Island at the Top of the World",
@@ -4656,7 +4953,10 @@
     "Running time (int)": 93,
     "Budget (float)": 8000000.0,
     "Box office (float)": 10000000.0,
-    "Release date (datetime)": "December 20, 1974"
+    "Release date (datetime)": "December 20, 1974",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Strongest Man in the World",
@@ -4688,7 +4988,10 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": 6600000.0,
-    "Release date (datetime)": "February 06, 1975"
+    "Release date (datetime)": "February 06, 1975",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Escape to Witch Mountain",
@@ -4725,7 +5028,10 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": 20000000.0,
-    "Release date (datetime)": "March 21, 1975"
+    "Release date (datetime)": "March 21, 1975",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Apple Dumpling Gang",
@@ -4768,7 +5074,10 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 36853000.0,
-    "Release date (datetime)": "July 01, 1975"
+    "Release date (datetime)": "July 01, 1975",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "One of Our Dinosaurs is Missing",
@@ -4800,7 +5109,10 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 5500000.0,
-    "Release date (datetime)": "July 09, 1975"
+    "Release date (datetime)": "July 09, 1975",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Best of Walt Disney's True-Life Adventures",
@@ -4850,7 +5162,10 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "October 08, 1975"
+    "Release date (datetime)": "October 08, 1975",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "True-Life Adventures",
@@ -4888,7 +5203,10 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Ride a Wild Pony",
@@ -4927,7 +5245,10 @@
     "Running time (int)": 91,
     "Budget (float)": 1000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "December 25, 1975"
+    "Release date (datetime)": "December 25, 1975",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "No Deposit, No Return",
@@ -4962,7 +5283,10 @@
     "Running time (int)": 112,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "February 11, 1976"
+    "Release date (datetime)": "February 11, 1976",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Treasure of Matecumbe",
@@ -4997,7 +5321,10 @@
     "Running time (int)": 115,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "July 01, 1976"
+    "Release date (datetime)": "July 01, 1976",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Gus",
@@ -5032,7 +5359,10 @@
     "Running time (int)": 95,
     "Budget (float)": null,
     "Box office (float)": 21873000.0,
-    "Release date (datetime)": "July 07, 1976"
+    "Release date (datetime)": "July 07, 1976",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Shaggy D.A.",
@@ -5068,7 +5398,10 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": 10500000.0,
-    "Release date (datetime)": "December 16, 1976"
+    "Release date (datetime)": "December 16, 1976",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Freaky Friday",
@@ -5103,7 +5436,10 @@
     "Running time (int)": 97,
     "Budget (float)": 5000000.0,
     "Box office (float)": 36000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Escape from the Dark (The Littlest Horse Thieves)",
@@ -5142,7 +5478,10 @@
     "Running time (int)": 104,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Many Adventures of",
@@ -5196,7 +5535,10 @@
     "Running time (int)": 74,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "March 11, 1977"
+    "Release date (datetime)": "March 11, 1977",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Rescuers",
@@ -5249,7 +5591,10 @@
     "Running time (int)": 77,
     "Budget (float)": 7500000.0,
     "Box office (float)": 169000000.0,
-    "Release date (datetime)": "June 22, 1977"
+    "Release date (datetime)": "June 22, 1977",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Herbie Goes to Monte Carlo",
@@ -5283,7 +5628,10 @@
     "Running time (int)": 104,
     "Budget (float)": null,
     "Box office (float)": 28000000.0,
-    "Release date (datetime)": "June 24, 1977"
+    "Release date (datetime)": "June 24, 1977",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pete's Dragon",
@@ -5325,7 +5673,10 @@
     "Running time (int)": 128,
     "Budget (float)": 10000000.0,
     "Box office (float)": 36.0,
-    "Release date (datetime)": "November 03, 1977"
+    "Release date (datetime)": "November 03, 1977",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Candleshoe",
@@ -5362,7 +5713,10 @@
     "Running time (int)": 101,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "December 16, 1977"
+    "Release date (datetime)": "December 16, 1977",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Return from Witch Mountain",
@@ -5396,7 +5750,10 @@
     "Running time (int)": 94,
     "Budget (float)": null,
     "Box office (float)": 16300000.0,
-    "Release date (datetime)": "March 10, 1978"
+    "Release date (datetime)": "March 10, 1978",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Cat from Outer Space",
@@ -5426,7 +5783,10 @@
     "Running time (int)": 104,
     "Budget (float)": 3500000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "June 30, 1978"
+    "Release date (datetime)": "June 30, 1978",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Hot Lead and Cold Feet",
@@ -5461,7 +5821,10 @@
     "Running time (int)": 90,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "July 05, 1978"
+    "Release date (datetime)": "July 05, 1978",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The North Avenue Irregulars",
@@ -5495,7 +5858,10 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "February 09, 1979"
+    "Release date (datetime)": "February 09, 1979",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Apple Dumpling Gang Rides Again",
@@ -5532,7 +5898,10 @@
     "Running time (int)": 88,
     "Budget (float)": null,
     "Box office (float)": 20931111.0,
-    "Release date (datetime)": "June 27, 1979"
+    "Release date (datetime)": "June 27, 1979",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Unidentified Flying Oddball",
@@ -5567,7 +5936,10 @@
     "Running time (int)": 93,
     "Budget (float)": 5250000.0,
     "Box office (float)": 4475000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Black Hole",
@@ -5609,7 +5981,10 @@
     "Running time (int)": 98,
     "Budget (float)": 20000000.0,
     "Box office (float)": 35800000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Midnight Madness",
@@ -5650,7 +6025,10 @@
     "Running time (int)": 112,
     "Budget (float)": 4500000.0,
     "Box office (float)": 2900000.0,
-    "Release date (datetime)": "February 08, 1980"
+    "Release date (datetime)": "February 08, 1980",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Watcher in the Woods",
@@ -5696,7 +6074,10 @@
     "Running time (int)": 84,
     "Budget (float)": 9000000.0,
     "Box office (float)": 5000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Herbie Goes Bananas",
@@ -5733,7 +6114,10 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": 18000000.0,
-    "Release date (datetime)": "June 27, 1980"
+    "Release date (datetime)": "June 27, 1980",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Last Flight of Noah's Ark",
@@ -5773,7 +6157,10 @@
     "Running time (int)": 97,
     "Budget (float)": 6000000.0,
     "Box office (float)": 11000000.0,
-    "Release date (datetime)": "July 09, 1980"
+    "Release date (datetime)": "July 09, 1980",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Popeye",
@@ -5817,7 +6204,10 @@
     "Running time (int)": 114,
     "Budget (float)": 20000000.0,
     "Box office (float)": 60000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Devil and Max Devlin",
@@ -5855,7 +6245,10 @@
     "Running time (int)": 96,
     "Budget (float)": null,
     "Box office (float)": 16000000.0,
-    "Release date (datetime)": "February 11, 1981"
+    "Release date (datetime)": "February 11, 1981",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Amy",
@@ -5883,7 +6276,10 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "March 20, 1981"
+    "Release date (datetime)": "March 20, 1981",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Dragonslayer",
@@ -5928,7 +6324,10 @@
     "Running time (int)": 109,
     "Budget (float)": 18000000.0,
     "Box office (float)": 14100000.0,
-    "Release date (datetime)": "June 26, 1981"
+    "Release date (datetime)": "June 26, 1981",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Fox and the Hound",
@@ -5990,7 +6389,10 @@
     "Running time (int)": 83,
     "Budget (float)": 12000000.0,
     "Box office (float)": 63500000.0,
-    "Release date (datetime)": "July 10, 1981"
+    "Release date (datetime)": "July 10, 1981",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Condorman",
@@ -6025,7 +6427,10 @@
     "Running time (int)": 90,
     "Budget (float)": 14000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "August 07, 1981"
+    "Release date (datetime)": "August 07, 1981",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Night Crossing",
@@ -6059,7 +6464,10 @@
     "Running time (int)": 107,
     "Budget (float)": 10000000.0,
     "Box office (float)": 8000000.0,
-    "Release date (datetime)": "February 05, 1982"
+    "Release date (datetime)": "February 05, 1982",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tron",
@@ -6096,7 +6504,10 @@
     "Running time (int)": 96,
     "Budget (float)": 17000000.0,
     "Box office (float)": 50000000.0,
-    "Release date (datetime)": "July 09, 1982"
+    "Release date (datetime)": "July 09, 1982",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tex",
@@ -6134,7 +6545,10 @@
     "Running time (int)": 103,
     "Budget (float)": 5000000.0,
     "Box office (float)": 7400000.0,
-    "Release date (datetime)": "July 30, 1982"
+    "Release date (datetime)": "July 30, 1982",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Trenchcoat",
@@ -6167,7 +6581,10 @@
     "Running time (int)": 91,
     "Budget (float)": 8000000.0,
     "Box office (float)": 4304286.0,
-    "Release date (datetime)": "March 11, 1983"
+    "Release date (datetime)": "March 11, 1983",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Something Wicked This Way Comes",
@@ -6206,7 +6623,10 @@
     "Running time (int)": 95,
     "Budget (float)": 20000000.0,
     "Box office (float)": 8400000.0,
-    "Release date (datetime)": "April 29, 1983"
+    "Release date (datetime)": "April 29, 1983",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Never Cry Wolf",
@@ -6256,7 +6676,10 @@
     "Running time (int)": 105,
     "Budget (float)": 11000000.0,
     "Box office (float)": 27600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Return to Oz",
@@ -6305,7 +6728,10 @@
     "Running time (int)": 113,
     "Budget (float)": 28000000.0,
     "Box office (float)": 11100000.0,
-    "Release date (datetime)": "June 21, 1985"
+    "Release date (datetime)": "June 21, 1985",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Black Cauldron",
@@ -6363,7 +6789,10 @@
     "Running time (int)": 80,
     "Budget (float)": 44000000.0,
     "Box office (float)": 21300000.0,
-    "Release date (datetime)": "July 24, 1985"
+    "Release date (datetime)": "July 24, 1985",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Journey of Natty Gann",
@@ -6394,7 +6823,10 @@
     "Running time (int)": 101,
     "Budget (float)": 8000000.0,
     "Box office (float)": 9700000.0,
-    "Release date (datetime)": "September 27, 1985"
+    "Release date (datetime)": "September 27, 1985",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "One Magic Christmas",
@@ -6437,7 +6869,10 @@
     "Running time (int)": 90,
     "Budget (float)": 7500000.0,
     "Box office (float)": 13000000.0,
-    "Release date (datetime)": "November 22, 1985"
+    "Release date (datetime)": "November 22, 1985",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Great Mouse Detective",
@@ -6496,7 +6931,10 @@
     "Running time (int)": 74,
     "Budget (float)": 14000000.0,
     "Box office (float)": 38700000.0,
-    "Release date (datetime)": "July 02, 1986"
+    "Release date (datetime)": "July 02, 1986",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Flight of the Navigator",
@@ -6542,7 +6980,10 @@
     "Running time (int)": 90,
     "Budget (float)": 9000000.0,
     "Box office (float)": 18600000.0,
-    "Release date (datetime)": "August 01, 1986"
+    "Release date (datetime)": "August 01, 1986",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Benji the Hunted",
@@ -6576,7 +7017,10 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": 22300000.0,
-    "Release date (datetime)": "June 05, 1987"
+    "Release date (datetime)": "June 05, 1987",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Man from Snowy River II",
@@ -6618,7 +7062,10 @@
     "Running time (int)": 110,
     "Budget (float)": 8700000.0,
     "Box office (float)": 13687027.0,
-    "Release date (datetime)": "March 24, 1988"
+    "Release date (datetime)": "March 24, 1988",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Oliver & Company",
@@ -6677,7 +7124,10 @@
     "Running time (int)": 74,
     "Budget (float)": 31000000.0,
     "Box office (float)": 121000000.0,
-    "Release date (datetime)": "November 18, 1988"
+    "Release date (datetime)": "November 18, 1988",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Honey, I Shrunk the Kids",
@@ -6714,7 +7164,10 @@
     "Running time (int)": 93,
     "Budget (float)": 18000000.0,
     "Box office (float)": 222700000.0,
-    "Release date (datetime)": "June 23, 1989"
+    "Release date (datetime)": "June 23, 1989",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Cheetah",
@@ -6756,7 +7209,10 @@
     "Running time (int)": 84,
     "Budget (float)": 5000000.0,
     "Box office (float)": 8153677.0,
-    "Release date (datetime)": "August 18, 1989"
+    "Release date (datetime)": "August 18, 1989",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Little Mermaid",
@@ -6810,7 +7266,10 @@
     "Running time (int)": 83,
     "Budget (float)": 40000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "November 17, 1989"
+    "Release date (datetime)": "November 17, 1989",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "DuckTales the Movie: Treasure of the Lost Lamp",
@@ -6854,7 +7313,10 @@
     "Running time (int)": 69,
     "Budget (float)": 20000000.0,
     "Box office (float)": 18100000.0,
-    "Release date (datetime)": "August 03, 1990"
+    "Release date (datetime)": "August 03, 1990",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Rescuers Down Under",
@@ -6900,7 +7362,10 @@
     "Running time (int)": 77,
     "Budget (float)": null,
     "Box office (float)": 47400000.0,
-    "Release date (datetime)": "November 16, 1990"
+    "Release date (datetime)": "November 16, 1990",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "White Fang",
@@ -6946,7 +7411,10 @@
     "Running time (int)": 107,
     "Budget (float)": 14000000.0,
     "Box office (float)": 41000000.0,
-    "Release date (datetime)": "January 18, 1991"
+    "Release date (datetime)": "January 18, 1991",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Shipwrecked",
@@ -6993,7 +7461,10 @@
     "Running time (int)": 93,
     "Budget (float)": 8700000.0,
     "Box office (float)": 17000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Wild Hearts Can't Be Broken",
@@ -7028,7 +7499,10 @@
     "Running time (int)": 88,
     "Budget (float)": null,
     "Box office (float)": 7300000.0,
-    "Release date (datetime)": "May 24, 1991"
+    "Release date (datetime)": "May 24, 1991",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Rocketeer",
@@ -7083,7 +7557,10 @@
     "Running time (int)": 108,
     "Budget (float)": 35000000.0,
     "Box office (float)": 46700000.0,
-    "Release date (datetime)": "June 21, 1991"
+    "Release date (datetime)": "June 21, 1991",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Beauty and the Beast",
@@ -7140,7 +7617,10 @@
     "Running time (int)": 84,
     "Budget (float)": 25000000.0,
     "Box office (float)": 424000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Newsies",
@@ -7178,7 +7658,10 @@
     "Running time (int)": 121,
     "Budget (float)": 15000000.0,
     "Box office (float)": 2800000.0,
-    "Release date (datetime)": "April 10, 1992"
+    "Release date (datetime)": "April 10, 1992",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Honey, I Blew Up the Kid",
@@ -7227,7 +7710,10 @@
     "Running time (int)": 89,
     "Budget (float)": 32000000.0,
     "Box office (float)": 96000000.0,
-    "Release date (datetime)": "July 17, 1992"
+    "Release date (datetime)": "July 17, 1992",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Mighty Ducks",
@@ -7265,7 +7751,10 @@
     "Running time (int)": 104,
     "Budget (float)": 14000000.0,
     "Box office (float)": 50800000.0,
-    "Release date (datetime)": "October 02, 1992"
+    "Release date (datetime)": "October 02, 1992",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Aladdin",
@@ -7329,7 +7818,10 @@
     "Running time (int)": 90,
     "Budget (float)": 28000000.0,
     "Box office (float)": 504100000.0,
-    "Release date (datetime)": "November 11, 1992"
+    "Release date (datetime)": "November 11, 1992",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -7370,7 +7862,10 @@
     "Running time (int)": 86,
     "Budget (float)": 12000000.0,
     "Box office (float)": 27200000.0,
-    "Release date (datetime)": "December 11, 1992"
+    "Release date (datetime)": "December 11, 1992",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Homeward Bound: The Incredible Journey",
@@ -7414,7 +7909,10 @@
     "Running time (int)": 84,
     "Budget (float)": null,
     "Box office (float)": 57000000.0,
-    "Release date (datetime)": "February 03, 1993"
+    "Release date (datetime)": "February 03, 1993",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "A Far Off Place",
@@ -7461,7 +7959,10 @@
     "Running time (int)": 108,
     "Budget (float)": null,
     "Box office (float)": 12900000.0,
-    "Release date (datetime)": "March 12, 1993"
+    "Release date (datetime)": "March 12, 1993",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Adventures of Huck Finn",
@@ -7495,7 +7996,10 @@
     "Running time (int)": 107,
     "Budget (float)": 11000000.0,
     "Box office (float)": 24100000.0,
-    "Release date (datetime)": "April 02, 1993"
+    "Release date (datetime)": "April 02, 1993",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Hocus Pocus",
@@ -7536,7 +8040,10 @@
     "Running time (int)": 96,
     "Budget (float)": 28000000.0,
     "Box office (float)": 49100000.0,
-    "Release date (datetime)": "July 16, 1993"
+    "Release date (datetime)": "July 16, 1993",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Cool Runnings",
@@ -7577,7 +8084,10 @@
     "Running time (int)": 98,
     "Budget (float)": 17000000.0,
     "Box office (float)": 154900000.0,
-    "Release date (datetime)": "October 01, 1993"
+    "Release date (datetime)": "October 01, 1993",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Three Musketeers",
@@ -7623,7 +8133,10 @@
     "Running time (int)": 105,
     "Budget (float)": 30000000.0,
     "Box office (float)": 111000000.0,
-    "Release date (datetime)": "November 12, 1993"
+    "Release date (datetime)": "November 12, 1993",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Iron Will",
@@ -7657,7 +8170,10 @@
     "Running time (int)": 109,
     "Budget (float)": null,
     "Box office (float)": 21000000.0,
-    "Release date (datetime)": "January 14, 1994"
+    "Release date (datetime)": "January 14, 1994",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Blank Check",
@@ -7699,7 +8215,10 @@
     "Running time (int)": 94,
     "Budget (float)": 13000000.0,
     "Box office (float)": 39000000.0,
-    "Release date (datetime)": "February 11, 1994"
+    "Release date (datetime)": "February 11, 1994",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "D2: The Mighty Ducks",
@@ -7740,7 +8259,10 @@
     "Running time (int)": 106,
     "Budget (float)": null,
     "Box office (float)": 45600000.0,
-    "Release date (datetime)": "March 25, 1994"
+    "Release date (datetime)": "March 25, 1994",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "White Fang 2: Myth of the White Wolf",
@@ -7768,7 +8290,10 @@
     "Running time (int)": 102,
     "Budget (float)": null,
     "Box office (float)": 8900000.0,
-    "Release date (datetime)": "April 14, 1994"
+    "Release date (datetime)": "April 14, 1994",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Return of Jafar",
@@ -7838,7 +8363,10 @@
     "Running time (int)": 69,
     "Budget (float)": 5000000.0,
     "Box office (float)": 300000000.0,
-    "Release date (datetime)": "May 20, 1994"
+    "Release date (datetime)": "May 20, 1994",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Lion King",
@@ -7904,7 +8432,10 @@
     "Running time (int)": 88,
     "Budget (float)": 45000000.0,
     "Box office (float)": 968400000.0,
-    "Release date (datetime)": "June 15, 1994"
+    "Release date (datetime)": "June 15, 1994",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Angels in the Outfield",
@@ -7949,7 +8480,10 @@
     "Running time (int)": 102,
     "Budget (float)": 31000000.0,
     "Box office (float)": 50200000.0,
-    "Release date (datetime)": "July 15, 1994"
+    "Release date (datetime)": "July 15, 1994",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Squanto: A Warrior's Tale",
@@ -7983,7 +8517,10 @@
     "Running time (int)": 102,
     "Budget (float)": null,
     "Box office (float)": 3300000.0,
-    "Release date (datetime)": "October 28, 1994"
+    "Release date (datetime)": "October 28, 1994",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Santa Clause",
@@ -8025,7 +8562,10 @@
     "Running time (int)": 97,
     "Budget (float)": 22000000.0,
     "Box office (float)": 190300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Rudyard Kipling's The Jungle Book",
@@ -8083,10 +8623,14 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
+    "Box office": "$43,229,904",
     "Running time (int)": 111,
     "Budget (float)": 30000000.0,
-    "Box office (float)": null,
-    "Release date (datetime)": "December 25, 1994"
+    "Box office (float)": 43229904.0,
+    "Release date (datetime)": "December 25, 1994",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Gargoyles the Movie: The Heroes Awaken",
@@ -8137,7 +8681,10 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "January 31, 1995"
+    "Release date (datetime)": "January 31, 1995",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Heavyweights",
@@ -8188,7 +8735,10 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 17600000.0,
-    "Release date (datetime)": "February 17, 1995"
+    "Release date (datetime)": "February 17, 1995",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Man of the House",
@@ -8232,7 +8782,10 @@
     "Running time (int)": 96,
     "Budget (float)": 22000000.0,
     "Box office (float)": 40070995.0,
-    "Release date (datetime)": "March 03, 1995"
+    "Release date (datetime)": "March 03, 1995",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tall Tale",
@@ -8276,7 +8829,10 @@
     "Running time (int)": 96,
     "Budget (float)": 32000000.0,
     "Box office (float)": 8199999.999999999,
-    "Release date (datetime)": "March 24, 1995"
+    "Release date (datetime)": "March 24, 1995",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "A Goofy Movie",
@@ -8320,7 +8876,10 @@
     "Running time (int)": 78,
     "Budget (float)": 18000000.0,
     "Box office (float)": 37600000.0,
-    "Release date (datetime)": "April 07, 1995"
+    "Release date (datetime)": "April 07, 1995",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pocahontas",
@@ -8385,7 +8944,10 @@
     "Running time (int)": 81,
     "Budget (float)": 55000000.0,
     "Box office (float)": 346100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Operation Dumbo Drop",
@@ -8428,7 +8990,10 @@
     "Running time (int)": 108,
     "Budget (float)": 24000000.0,
     "Box office (float)": 24670346.0,
-    "Release date (datetime)": "July 28, 1995"
+    "Release date (datetime)": "July 28, 1995",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "A Kid in King Arthur's Court",
@@ -8473,7 +9038,10 @@
     "Running time (int)": 89,
     "Budget (float)": 15000000.0,
     "Box office (float)": 13400000.0,
-    "Release date (datetime)": "August 11, 1995"
+    "Release date (datetime)": "August 11, 1995",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Big Green",
@@ -8508,7 +9076,10 @@
     "Running time (int)": 99,
     "Budget (float)": 12000000.0,
     "Box office (float)": 17700000.0,
-    "Release date (datetime)": "September 27, 1995"
+    "Release date (datetime)": "September 27, 1995",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Frank and Ollie",
@@ -8540,7 +9111,10 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Toy Story",
@@ -8593,7 +9167,10 @@
     "Running time (int)": 81,
     "Budget (float)": 30000000.0,
     "Box office (float)": 394400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tom and Huck (1995)",
@@ -8630,7 +9207,10 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": 23900000.0,
-    "Release date (datetime)": "December 22, 1995"
+    "Release date (datetime)": "December 22, 1995",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Muppet Treasure Island",
@@ -8677,7 +9257,10 @@
     "Running time (int)": 100,
     "Budget (float)": 31000000.0,
     "Box office (float)": 34300000.0,
-    "Release date (datetime)": "February 16, 1996"
+    "Release date (datetime)": "February 16, 1996",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Homeward Bound II: Lost in San Francisco",
@@ -8720,7 +9303,10 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": 32700000.000000004,
-    "Release date (datetime)": "March 08, 1996"
+    "Release date (datetime)": "March 08, 1996",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "James and the Giant Peach",
@@ -8782,7 +9368,10 @@
     "Running time (int)": 79,
     "Budget (float)": 38000000.0,
     "Box office (float)": 37700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Hunchback of Notre Dame",
@@ -8834,7 +9423,10 @@
     "Running time (int)": 91,
     "Budget (float)": 70000000.0,
     "Box office (float)": 325300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Aladdin and the King of Thieves",
@@ -8880,7 +9472,10 @@
     "Running time (int)": 81,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 13, 1996"
+    "Release date (datetime)": "August 13, 1996",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "First Kid",
@@ -8912,7 +9507,10 @@
     "Running time (int)": 101,
     "Budget (float)": 15000000.0,
     "Box office (float)": 26465920.0,
-    "Release date (datetime)": "August 30, 1996"
+    "Release date (datetime)": "August 30, 1996",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "D3: The Mighty Ducks",
@@ -8957,7 +9555,10 @@
     "Running time (int)": 104,
     "Budget (float)": null,
     "Box office (float)": 22900000.0,
-    "Release date (datetime)": "October 04, 1996"
+    "Release date (datetime)": "October 04, 1996",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "101 Dalmatians",
@@ -8999,7 +9600,10 @@
     "Running time (int)": 103,
     "Budget (float)": 67000000.0,
     "Box office (float)": 320700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "That Darn Cat",
@@ -9041,7 +9645,10 @@
     "Running time (int)": 86,
     "Budget (float)": null,
     "Box office (float)": 18300000.0,
-    "Release date (datetime)": "February 14, 1997"
+    "Release date (datetime)": "February 14, 1997",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Jungle 2 Jungle",
@@ -9090,7 +9697,10 @@
     "Running time (int)": 106,
     "Budget (float)": 32000000.0,
     "Box office (float)": 59900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Honey, We Shrunk Ourselves",
@@ -9129,7 +9739,10 @@
     "Running time (int)": 74,
     "Budget (float)": 7000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "March 18, 1997"
+    "Release date (datetime)": "March 18, 1997",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Hercules",
@@ -9188,7 +9801,10 @@
     "Running time (int)": 93,
     "Budget (float)": 85000000.0,
     "Box office (float)": 252700000.0,
-    "Release date (datetime)": "June 13, 1997"
+    "Release date (datetime)": "June 13, 1997",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "George of the Jungle",
@@ -9234,7 +9850,10 @@
     "Running time (int)": 92,
     "Budget (float)": 55000000.0,
     "Box office (float)": 174400000.0,
-    "Release date (datetime)": "July 16, 1997"
+    "Release date (datetime)": "July 16, 1997",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Air Bud",
@@ -9280,7 +9899,10 @@
     "Running time (int)": 98,
     "Budget (float)": 3000000.0,
     "Box office (float)": 27800000.0,
-    "Release date (datetime)": "August 01, 1997"
+    "Release date (datetime)": "August 01, 1997",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pooh's Grand Adventure: The Search for Christopher Robin",
@@ -9326,7 +9948,10 @@
     "Running time (int)": 76,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 05, 1997"
+    "Release date (datetime)": "August 05, 1997",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "RocketMan",
@@ -9364,7 +9989,10 @@
     "Running time (int)": 95,
     "Budget (float)": 16000000.0,
     "Box office (float)": 15400000.0,
-    "Release date (datetime)": "October 10, 1997"
+    "Release date (datetime)": "October 10, 1997",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Beauty and the Beast: The Enchanted Christmas",
@@ -9409,7 +10037,10 @@
     "Running time (int)": 72,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "November 11, 1997"
+    "Release date (datetime)": "November 11, 1997",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Flubber",
@@ -9456,7 +10087,10 @@
     "Running time (int)": 93,
     "Budget (float)": 80000000.0,
     "Box office (float)": 178000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mr. Magoo",
@@ -9504,7 +10138,10 @@
     "Running time (int)": 87,
     "Budget (float)": 30000000.0,
     "Box office (float)": 28900000.0,
-    "Release date (datetime)": "December 25, 1997"
+    "Release date (datetime)": "December 25, 1997",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Beauty and the Beast: Belle's Magical World",
@@ -9559,7 +10196,10 @@
     "Running time (int)": 70,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "February 17, 1998"
+    "Release date (datetime)": "February 17, 1998",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Meet the Deedles",
@@ -9597,7 +10237,10 @@
     "Running time (int)": 93,
     "Budget (float)": 24000000.0,
     "Box office (float)": 4400000.0,
-    "Release date (datetime)": "March 27, 1998"
+    "Release date (datetime)": "March 27, 1998",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mulan",
@@ -9648,7 +10291,10 @@
     "Running time (int)": 87,
     "Budget (float)": 90000000.0,
     "Box office (float)": 304300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Parent Trap",
@@ -9686,7 +10332,10 @@
     "Running time (int)": 128,
     "Budget (float)": 15000000.0,
     "Box office (float)": 92100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pocahontas II: Journey to a New World",
@@ -9731,7 +10380,10 @@
     "Running time (int)": 72,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 25, 1998"
+    "Release date (datetime)": "August 25, 1998",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Jungle Book: Mowgli's Story",
@@ -9763,7 +10415,10 @@
     "Running time (int)": 77,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "September 29, 1998"
+    "Release date (datetime)": "September 29, 1998",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Lion King II: Simba's Pride",
@@ -9800,7 +10455,10 @@
     "Running time (int)": 82,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "October 27, 1998"
+    "Release date (datetime)": "October 27, 1998",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "I'll Be Home for Christmas",
@@ -9842,7 +10500,10 @@
     "Running time (int)": 86,
     "Budget (float)": 30000000.0,
     "Box office (float)": 12200000.0,
-    "Release date (datetime)": "November 13, 1998"
+    "Release date (datetime)": "November 13, 1998",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "A Bug's Life",
@@ -9887,7 +10548,10 @@
     "Running time (int)": 95,
     "Budget (float)": 40000000.0,
     "Box office (float)": 363300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mighty Joe Young",
@@ -9939,7 +10603,10 @@
     "Running time (int)": 114,
     "Budget (float)": 90000000.0,
     "Box office (float)": 50600000.0,
-    "Release date (datetime)": "December 25, 1998"
+    "Release date (datetime)": "December 25, 1998",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "My Favorite Martian",
@@ -9979,7 +10646,10 @@
     "Running time (int)": 93,
     "Budget (float)": 65000000.0,
     "Box office (float)": 36800000.0,
-    "Release date (datetime)": "February 12, 1999"
+    "Release date (datetime)": "February 12, 1999",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Doug's 1st Movie",
@@ -10028,7 +10698,10 @@
     "Running time (int)": 83,
     "Budget (float)": 5000000.0,
     "Box office (float)": 19400000.0,
-    "Release date (datetime)": "March 26, 1999"
+    "Release date (datetime)": "March 26, 1999",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Endurance",
@@ -10069,7 +10742,10 @@
     "Running time (int)": 83,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tarzan",
@@ -10142,7 +10818,10 @@
     "Running time (int)": 88,
     "Budget (float)": 130000000.0,
     "Box office (float)": 448200000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Inspector Gadget",
@@ -10203,7 +10882,10 @@
     "Running time (int)": 78,
     "Budget (float)": 75000000.0,
     "Box office (float)": 134400000.0,
-    "Release date (datetime)": "July 23, 1999"
+    "Release date (datetime)": "July 23, 1999",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Hercules: Zero to Hero",
@@ -10251,7 +10933,10 @@
     "Running time (int)": 70,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 17, 1999"
+    "Release date (datetime)": "August 17, 1999",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Straight Story",
@@ -10301,7 +10986,10 @@
     "Running time (int)": 112,
     "Budget (float)": 10000000.0,
     "Box office (float)": 6400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mickey's Once Upon a Christmas",
@@ -10368,7 +11056,10 @@
     "Running time (int)": 66,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "November 09, 1999"
+    "Release date (datetime)": "November 09, 1999",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Toy Story 2",
@@ -10428,7 +11119,10 @@
     "Running time (int)": 92,
     "Budget (float)": 90000000.0,
     "Box office (float)": 512000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Fantasia 2000",
@@ -10478,7 +11172,10 @@
     "Running time (int)": 75,
     "Budget (float)": 80000000.0,
     "Box office (float)": 90900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Tigger Movie",
@@ -10525,7 +11222,10 @@
     "Running time (int)": 77,
     "Budget (float)": 15000000.0,
     "Box office (float)": 96200000.0,
-    "Release date (datetime)": "February 11, 2000"
+    "Release date (datetime)": "February 11, 2000",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "An Extremely Goofy Movie",
@@ -10569,7 +11269,10 @@
     "Running time (int)": 79,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Whispers: An Elephant's Tale",
@@ -10610,7 +11313,10 @@
     "Running time (int)": 72,
     "Budget (float)": 4000000.0,
     "Box office (float)": 500000.0,
-    "Release date (datetime)": "March 10, 2000"
+    "Release date (datetime)": "March 10, 2000",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Dinosaur",
@@ -10667,7 +11373,10 @@
     "Running time (int)": 82,
     "Budget (float)": 127500000.0,
     "Box office (float)": 349800000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Kid",
@@ -10710,7 +11419,10 @@
     "Running time (int)": 104,
     "Budget (float)": 65000000.0,
     "Box office (float)": 110300000.0,
-    "Release date (datetime)": "July 07, 2000"
+    "Release date (datetime)": "July 07, 2000",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Buzz Lightyear of Star Command: The Adventure Begins",
@@ -10761,7 +11473,10 @@
     "Running time (int)": 70,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 08, 2000"
+    "Release date (datetime)": "August 08, 2000",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Little Mermaid II: Return to the Sea",
@@ -10814,7 +11529,10 @@
     "Running time (int)": 75,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "September 19, 2000"
+    "Release date (datetime)": "September 19, 2000",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Remember the Titans",
@@ -10852,7 +11570,10 @@
     "Running time (int)": 113,
     "Budget (float)": 30000000.0,
     "Box office (float)": 136800000.0,
-    "Release date (datetime)": "September 29, 2000"
+    "Release date (datetime)": "September 29, 2000",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "102 Dalmatians",
@@ -10900,7 +11621,10 @@
     "Running time (int)": 100,
     "Budget (float)": 85000000.0,
     "Box office (float)": 183600000.0,
-    "Release date (datetime)": "November 22, 2000"
+    "Release date (datetime)": "November 22, 2000",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Emperor's New Groove",
@@ -10943,7 +11667,10 @@
     "Running time (int)": 78,
     "Budget (float)": 100000000.0,
     "Box office (float)": 169700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Recess: School's Out",
@@ -11006,7 +11733,10 @@
     "Running time (int)": 83,
     "Budget (float)": 23000000.0,
     "Box office (float)": 44500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Lady and the Tramp II:",
@@ -11046,7 +11776,10 @@
     "Running time (int)": 69,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "February 27, 2001"
+    "Release date (datetime)": "February 27, 2001",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Atlantis: The Lost Empire",
@@ -11098,7 +11831,10 @@
     "Running time (int)": 96,
     "Budget (float)": 90000000.0,
     "Box office (float)": 186100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Princess Diaries",
@@ -11143,7 +11879,10 @@
     "Running time (int)": 115,
     "Budget (float)": 26000000.0,
     "Box office (float)": 165300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Max Keeble's Big Move",
@@ -11189,7 +11928,10 @@
     "Running time (int)": 86,
     "Budget (float)": 25000000.0,
     "Box office (float)": 18600000.0,
-    "Release date (datetime)": "October 05, 2001"
+    "Release date (datetime)": "October 05, 2001",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Monsters, Inc.",
@@ -11235,7 +11977,10 @@
     "Running time (int)": 92,
     "Budget (float)": 115000000.0,
     "Box office (float)": 579700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
@@ -11288,7 +12033,10 @@
     "Running time (int)": 65,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "November 06, 2001"
+    "Release date (datetime)": "November 06, 2001",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Snow Dogs",
@@ -11332,7 +12080,10 @@
     "Running time (int)": 95,
     "Budget (float)": 33000000.0,
     "Box office (float)": 115000000.0,
-    "Release date (datetime)": "January 18, 2002"
+    "Release date (datetime)": "January 18, 2002",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Return to Never Land",
@@ -11378,7 +12129,10 @@
     "Running time (int)": 73,
     "Budget (float)": 20000000.0,
     "Box office (float)": 115100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Cinderella II: Dreams Come True",
@@ -11416,7 +12170,10 @@
     "Running time (int)": 73,
     "Budget (float)": 5000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "February 26, 2002"
+    "Release date (datetime)": "February 26, 2002",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Hunchback of Notre Dame II",
@@ -11466,7 +12223,10 @@
     "Running time (int)": 68,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Rookie",
@@ -11503,7 +12263,10 @@
     "Running time (int)": 128,
     "Budget (float)": 22000000.0,
     "Box office (float)": 80700000.0,
-    "Release date (datetime)": "March 29, 2002"
+    "Release date (datetime)": "March 29, 2002",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Lilo & Stitch",
@@ -11547,7 +12310,10 @@
     "Running time (int)": 86,
     "Budget (float)": 80000000.0,
     "Box office (float)": 273100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tarzan & Jane",
@@ -11599,7 +12365,10 @@
     "Running time (int)": 75,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "July 23, 2002"
+    "Release date (datetime)": "July 23, 2002",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Country Bears",
@@ -11637,7 +12406,10 @@
     "Running time (int)": 88,
     "Budget (float)": 35000000.0,
     "Box office (float)": 18000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mickey's House of Villains",
@@ -11689,7 +12461,10 @@
     "Running time (int)": 68,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "September 03, 2002"
+    "Release date (datetime)": "September 03, 2002",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tuck Everlasting",
@@ -11738,7 +12513,10 @@
     "Running time (int)": 96,
     "Budget (float)": 15000000.0,
     "Box office (float)": 19300000.0,
-    "Release date (datetime)": "October 11, 2002"
+    "Release date (datetime)": "October 11, 2002",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Santa Clause 2",
@@ -11795,7 +12573,10 @@
     "Running time (int)": 104,
     "Budget (float)": 65000000.0,
     "Box office (float)": 172900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Treasure Planet",
@@ -11854,7 +12635,10 @@
     "Running time (int)": 95,
     "Budget (float)": 140000000.0,
     "Box office (float)": 109600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "101 Dalmatians II:",
@@ -11907,7 +12691,10 @@
     "Running time (int)": 74,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "January 21, 2003"
+    "Release date (datetime)": "January 21, 2003",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Jungle Book 2",
@@ -11954,7 +12741,10 @@
     "Running time (int)": 72,
     "Budget (float)": 20000000.0,
     "Box office (float)": 135700000.0,
-    "Release date (datetime)": "February 14, 2003"
+    "Release date (datetime)": "February 14, 2003",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Inspector Gadget 2",
@@ -12002,7 +12792,10 @@
     "Running time (int)": 88,
     "Budget (float)": 12000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "March 11, 2003"
+    "Release date (datetime)": "March 11, 2003",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Piglet's Big Movie",
@@ -12054,7 +12847,10 @@
     "Running time (int)": 75,
     "Budget (float)": 46000000.0,
     "Box office (float)": 62900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Ghosts of the Abyss",
@@ -12107,7 +12903,10 @@
     "Running time (int)": 61,
     "Budget (float)": 13000000.0,
     "Box office (float)": 28700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Holes",
@@ -12157,7 +12956,10 @@
     "Running time (int)": 117,
     "Budget (float)": 17000000.0,
     "Box office (float)": 71400000.0,
-    "Release date (datetime)": "April 11, 2003"
+    "Release date (datetime)": "April 11, 2003",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Lizzie McGuire Movie",
@@ -12199,7 +13001,10 @@
     "Running time (int)": 94,
     "Budget (float)": 17000000.0,
     "Box office (float)": 55500000.0,
-    "Release date (datetime)": "May 02, 2003"
+    "Release date (datetime)": "May 02, 2003",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Atlantis: Milo's Return",
@@ -12259,7 +13064,10 @@
     "Running time (int)": 80,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "May 20, 2003"
+    "Release date (datetime)": "May 20, 2003",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Finding Nemo",
@@ -12302,7 +13110,10 @@
     "Running time (int)": 100,
     "Budget (float)": 94000000.0,
     "Box office (float)": 940300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -12350,7 +13161,10 @@
     "Running time (int)": 143,
     "Budget (float)": 140000000.0,
     "Box office (float)": 654300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Freaky Friday",
@@ -12394,7 +13208,10 @@
     "Running time (int)": 96,
     "Budget (float)": 26000000.0,
     "Box office (float)": 160800000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Stitch! The Movie",
@@ -12435,7 +13252,10 @@
     "Running time (int)": 64,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 26, 2003"
+    "Release date (datetime)": "August 26, 2003",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "George of the Jungle 2",
@@ -12482,7 +13302,10 @@
     "Running time (int)": 87,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "October 21, 2003"
+    "Release date (datetime)": "October 21, 2003",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Brother Bear",
@@ -12542,7 +13365,10 @@
     "Running time (int)": 85,
     "Budget (float)": 46000000.0,
     "Box office (float)": 250400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Haunted Mansion",
@@ -12580,7 +13406,10 @@
     "Running time (int)": 87,
     "Budget (float)": 90000000.0,
     "Box office (float)": 182300000.0,
-    "Release date (datetime)": "November 26, 2003"
+    "Release date (datetime)": "November 26, 2003",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Young Black Stallion",
@@ -12623,7 +13452,10 @@
     "Running time (int)": 50,
     "Budget (float)": null,
     "Box office (float)": 9600000.0,
-    "Release date (datetime)": "December 25, 2003"
+    "Release date (datetime)": "December 25, 2003",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Teacher's Pet",
@@ -12665,7 +13497,10 @@
     "Running time (int)": 74,
     "Budget (float)": 10000000.0,
     "Box office (float)": 6500000.0,
-    "Release date (datetime)": "January 16, 2004"
+    "Release date (datetime)": "January 16, 2004",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Miracle",
@@ -12709,7 +13544,10 @@
     "Running time (int)": 136,
     "Budget (float)": 28000000.0,
     "Box office (float)": 64500000.0,
-    "Release date (datetime)": "February 06, 2004"
+    "Release date (datetime)": "February 06, 2004",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Lion King 1½",
@@ -12748,7 +13586,10 @@
     "Running time (int)": 78,
     "Budget (float)": null,
     "Box office (float)": 1465.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Confessions of a Teenage Drama Queen",
@@ -12786,7 +13627,10 @@
     "Running time (int)": 85,
     "Budget (float)": 15000000.0,
     "Box office (float)": 33299999.999999996,
-    "Release date (datetime)": "February 20, 2004"
+    "Release date (datetime)": "February 20, 2004",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Winnie the Pooh: Springtime with Roo",
@@ -12830,7 +13674,10 @@
     "Running time (int)": 65,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "March 09, 2004"
+    "Release date (datetime)": "March 09, 2004",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Home on the Range",
@@ -12878,7 +13725,10 @@
     "Running time (int)": 76,
     "Budget (float)": 110000000.0,
     "Box office (float)": 76500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Sacred Planet",
@@ -12928,7 +13778,10 @@
     "Running time (int)": 40,
     "Budget (float)": null,
     "Box office (float)": 1100000.0,
-    "Release date (datetime)": "April 22, 2004"
+    "Release date (datetime)": "April 22, 2004",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Around the World in 80 Days",
@@ -12979,7 +13832,10 @@
     "Running time (int)": 120,
     "Budget (float)": 110000000.0,
     "Box office (float)": 72200000.0,
-    "Release date (datetime)": "June 16, 2004"
+    "Release date (datetime)": "June 16, 2004",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "America's Heart and Soul",
@@ -13006,7 +13862,10 @@
     "Running time (int)": 84,
     "Budget (float)": null,
     "Box office (float)": 314402.0,
-    "Release date (datetime)": "July 02, 2004"
+    "Release date (datetime)": "July 02, 2004",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Princess Diaries 2: Royal Engagement",
@@ -13053,7 +13912,10 @@
     "Running time (int)": 113,
     "Budget (float)": 45000000.0,
     "Box office (float)": 134700000.0,
-    "Release date (datetime)": "August 11, 2004"
+    "Release date (datetime)": "August 11, 2004",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mickey, Donald, Goofy: The Three Musketeers",
@@ -13097,7 +13959,10 @@
     "Running time (int)": 67,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 17, 2004"
+    "Release date (datetime)": "August 17, 2004",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Incredibles",
@@ -13137,7 +14002,10 @@
     "Running time (int)": 115,
     "Budget (float)": 92000000.0,
     "Box office (float)": 631600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mickey's Twice Upon a Christmas",
@@ -13199,7 +14067,10 @@
     "Running time (int)": 67,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "November 09, 2004"
+    "Release date (datetime)": "November 09, 2004",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "National Treasure",
@@ -13248,7 +14119,10 @@
     "Running time (int)": 131,
     "Budget (float)": 100000000.0,
     "Box office (float)": 347500000.0,
-    "Release date (datetime)": "November 19, 2004"
+    "Release date (datetime)": "November 19, 2004",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Aliens of the Deep",
@@ -13293,7 +14167,10 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 9000000.0,
-    "Release date (datetime)": "January 28, 2005"
+    "Release date (datetime)": "January 28, 2005",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mulan II",
@@ -13336,7 +14213,10 @@
     "Running time (int)": 79,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pooh's Heffalump Movie",
@@ -13384,7 +14264,10 @@
     "Running time (int)": 68,
     "Budget (float)": 20000000.0,
     "Box office (float)": 52900000.0,
-    "Release date (datetime)": "February 11, 2005"
+    "Release date (datetime)": "February 11, 2005",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Pacifier",
@@ -13426,7 +14309,10 @@
     "Running time (int)": 95,
     "Budget (float)": 56000000.0,
     "Box office (float)": 198600000.0,
-    "Release date (datetime)": "March 04, 2005"
+    "Release date (datetime)": "March 04, 2005",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Ice Princess",
@@ -13463,7 +14349,10 @@
     "Running time (int)": 98,
     "Budget (float)": 25000000.0,
     "Box office (float)": 27600000.0,
-    "Release date (datetime)": "March 18, 2005"
+    "Release date (datetime)": "March 18, 2005",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tarzan II",
@@ -13518,55 +14407,10 @@
     "Running time (int)": 72,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "June 14, 2005"
-  },
-  {
-    "title": "Herbie: Fully Loaded",
-    "Directed by": "Angela Robinson",
-    "Screenplay by": [
-      "Thomas Lennon",
-      "Robert Ben Garant",
-      "Alfred Gough",
-      "Miles Millar"
-    ],
-    "Story by": [
-      "Thomas Lennon",
-      "Robert Ben Garant",
-      "Mark Perez"
-    ],
-    "Based on": [
-      "Characters",
-      "by Gordon Buford"
-    ],
-    "Produced by": "Robert Simonds",
-    "Starring": [
-      "Lindsay Lohan",
-      "Justin Long",
-      "Breckin Meyer",
-      "Matt Dillon",
-      "Michael Keaton"
-    ],
-    "Cinematography": "Greg Gardiner",
-    "Edited by": "Wendy Greene Bricmont",
-    "Music by": "Mark Mothersbaugh",
-    "Production companies": [
-      "Walt Disney Pictures",
-      "Robert Simonds Productions"
-    ],
-    "Distributed by": "Buena Vista Pictures Distribution",
-    "Release dates": [
-      "May 10, 2005 ( Las Vegas Motor Speedway )",
-      "June 22, 2005 (United States)"
-    ],
-    "Running time": "100 minutes",
-    "Country": "United States",
-    "Language": "English",
-    "Budget": "$50 million",
-    "Box office": "$144.1 million",
-    "Running time (int)": 100,
-    "Budget (float)": 50000000.0,
-    "Box office (float)": 144100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": "June 14, 2005",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Sky High",
@@ -13603,7 +14447,10 @@
     "Running time (int)": 100,
     "Budget (float)": 35000000.0,
     "Box office (float)": 86400000.0,
-    "Release date (datetime)": "July 29, 2005"
+    "Release date (datetime)": "July 29, 2005",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Valiant",
@@ -13659,7 +14506,10 @@
     "Running time (int)": 76,
     "Budget (float)": 35000000.0,
     "Box office (float)": 61700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Lilo & Stitch 2: Stitch Has a Glitch",
@@ -13698,7 +14548,10 @@
     "Running time (int)": 68,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 30, 2005"
+    "Release date (datetime)": "August 30, 2005",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pooh's Heffalump Halloween Movie",
@@ -13743,7 +14596,10 @@
     "Running time (int)": 67,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "September 13, 2005"
+    "Release date (datetime)": "September 13, 2005",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Greatest Game Ever Played",
@@ -13780,7 +14636,10 @@
     "Running time (int)": 120,
     "Budget (float)": 25000000.0,
     "Box office (float)": 15400000.0,
-    "Release date (datetime)": "September 30, 2005"
+    "Release date (datetime)": "September 30, 2005",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Chicken Little",
@@ -13825,7 +14684,10 @@
     "Running time (int)": 81,
     "Budget (float)": 150000000.0,
     "Box office (float)": 314400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
@@ -13882,7 +14744,10 @@
     "Running time (int)": 143,
     "Budget (float)": 180000000.0,
     "Box office (float)": 745000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Kronk's New Groove",
@@ -13937,7 +14802,10 @@
     "Running time (int)": 72,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "December 13, 2005"
+    "Release date (datetime)": "December 13, 2005",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Glory Road",
@@ -13977,7 +14845,10 @@
     "Running time (int)": 118,
     "Budget (float)": 30000000.0,
     "Box office (float)": 42900000.0,
-    "Release date (datetime)": "January 13, 2006"
+    "Release date (datetime)": "January 13, 2006",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Roving Mars",
@@ -14014,7 +14885,10 @@
     "Running time (int)": 40,
     "Budget (float)": 1000000.0,
     "Box office (float)": 11000000.0,
-    "Release date (datetime)": "January 27, 2006"
+    "Release date (datetime)": "January 27, 2006",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Bambi II",
@@ -14078,7 +14952,10 @@
     "Running time (int)": 72,
     "Budget (float)": null,
     "Box office (float)": 35000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Eight Below",
@@ -14122,7 +14999,10 @@
     "Running time (int)": 120,
     "Budget (float)": 40000000.0,
     "Box office (float)": 120500000.0,
-    "Release date (datetime)": "February 17, 2006"
+    "Release date (datetime)": "February 17, 2006",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Shaggy Dog",
@@ -14173,7 +15053,10 @@
     "Running time (int)": 99,
     "Budget (float)": 50000000.0,
     "Box office (float)": 87100000.0,
-    "Release date (datetime)": "March 10, 2006"
+    "Release date (datetime)": "March 10, 2006",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Wild",
@@ -14223,7 +15106,10 @@
     "Running time (int)": 82,
     "Budget (float)": 80000000.0,
     "Box office (float)": 102300000.0,
-    "Release date (datetime)": "April 14, 2006"
+    "Release date (datetime)": "April 14, 2006",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Cars",
@@ -14274,7 +15160,10 @@
     "Running time (int)": 117,
     "Budget (float)": 120000000.0,
     "Box office (float)": 462000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Leroy & Stitch",
@@ -14328,7 +15217,10 @@
     "Running time (int)": 72,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
@@ -14379,7 +15271,10 @@
     "Running time (int)": 150,
     "Budget (float)": 225000000.0,
     "Box office (float)": 1066000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Invincible",
@@ -14414,7 +15309,10 @@
     "Running time (int)": 104,
     "Budget (float)": 30000000.0,
     "Box office (float)": 58500000.0,
-    "Release date (datetime)": "August 25, 2006"
+    "Release date (datetime)": "August 25, 2006",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Brother Bear 2",
@@ -14459,7 +15357,10 @@
     "Running time (int)": 73,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 29, 2006"
+    "Release date (datetime)": "August 29, 2006",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Nightmare Before Christmas",
@@ -14502,7 +15403,10 @@
     "Running time (int)": 76,
     "Budget (float)": 24000000.0,
     "Box office (float)": 91500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Santa Clause 3: The Escape Clause",
@@ -14553,7 +15457,10 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": 110800000.0,
-    "Release date (datetime)": "November 03, 2006"
+    "Release date (datetime)": "November 03, 2006",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Fox and the Hound 2",
@@ -14590,7 +15497,10 @@
     "Running time (int)": 69,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "December 12, 2006"
+    "Release date (datetime)": "December 12, 2006",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Cinderella III: A Twist in Time",
@@ -14628,7 +15538,10 @@
     "Running time (int)": 70,
     "Budget (float)": 8000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "February 06, 2007"
+    "Release date (datetime)": "February 06, 2007",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Bridge to Terabithia",
@@ -14675,7 +15588,10 @@
     "Running time (int)": 95,
     "Budget (float)": 17000000.0,
     "Box office (float)": 137600000.0,
-    "Release date (datetime)": "February 16, 2007"
+    "Release date (datetime)": "February 16, 2007",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Meet the Robinsons",
@@ -14728,7 +15644,10 @@
     "Running time (int)": 95,
     "Budget (float)": 150000000.0,
     "Box office (float)": 169300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pirates of the Caribbean: At World's End",
@@ -14781,7 +15700,10 @@
     "Running time (int)": 169,
     "Budget (float)": 300000000.0,
     "Box office (float)": 963400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Ratatouille",
@@ -14827,7 +15749,10 @@
     "Running time (int)": 111,
     "Budget (float)": 150000000.0,
     "Box office (float)": 623700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Secret of the Magic Gourd",
@@ -14875,7 +15800,10 @@
     "Running time (int)": 85,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Underdog",
@@ -14928,7 +15856,10 @@
     "Running time (int)": 82,
     "Budget (float)": 25000000.0,
     "Box office (float)": 65300000.0,
-    "Release date (datetime)": "August 03, 2007"
+    "Release date (datetime)": "August 03, 2007",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Pixar Story",
@@ -14961,7 +15892,10 @@
     "Running time (int)": 87,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 28, 2007"
+    "Release date (datetime)": "August 28, 2007",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Game Plan",
@@ -15006,7 +15940,10 @@
     "Running time (int)": 110,
     "Budget (float)": 22000000.0,
     "Box office (float)": 146600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Enchanted",
@@ -15049,7 +15986,10 @@
     "Running time (int)": 107,
     "Budget (float)": 85000000.0,
     "Box office (float)": 340500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "National Treasure: Book of Secrets",
@@ -15113,7 +16053,10 @@
     "Running time (int)": 124,
     "Budget (float)": 130000000.0,
     "Box office (float)": 459200000.0,
-    "Release date (datetime)": "December 21, 2007"
+    "Release date (datetime)": "December 21, 2007",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
@@ -15148,7 +16091,10 @@
     "Running time (int)": 74,
     "Budget (float)": 7000000.0,
     "Box office (float)": 70600000.0,
-    "Release date (datetime)": "February 01, 2008"
+    "Release date (datetime)": "February 01, 2008",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "College Road Trip",
@@ -15188,7 +16134,10 @@
     "Running time (int)": 82,
     "Budget (float)": 25000000.0,
     "Box office (float)": 51500000.0,
-    "Release date (datetime)": "March 07, 2008"
+    "Release date (datetime)": "March 07, 2008",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Chronicles of Narnia: Prince Caspian",
@@ -15239,7 +16188,10 @@
     "Running time (int)": 150,
     "Budget (float)": 225000000.0,
     "Box office (float)": 419600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "WALL•E",
@@ -15288,7 +16240,10 @@
     "Running time (int)": 98,
     "Budget (float)": 180000000.0,
     "Box office (float)": 532500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Little Mermaid: Ariel's Beginning",
@@ -15332,7 +16287,10 @@
     "Running time (int)": 77,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 26, 2008"
+    "Release date (datetime)": "August 26, 2008",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Beverly Hills Chihuahua",
@@ -15383,7 +16341,10 @@
     "Running time (int)": 91,
     "Budget (float)": 20000000.0,
     "Box office (float)": 149300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Morning Light",
@@ -15415,7 +16376,10 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 275776.0,
-    "Release date (datetime)": "October 17, 2008"
+    "Release date (datetime)": "October 17, 2008",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "High School Musical 3: Senior Year",
@@ -15453,7 +16417,10 @@
     "Running time (int)": 112,
     "Budget (float)": 11000000.0,
     "Box office (float)": 252900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Roadside Romeo",
@@ -15493,7 +16460,10 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": 2000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tinker Bell",
@@ -15526,7 +16496,10 @@
     "Running time (int)": 78,
     "Budget (float)": 50000000.0,
     "Box office (float)": 9200000.0,
-    "Release date (datetime)": "October 28, 2008"
+    "Release date (datetime)": "October 28, 2008",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Bolt",
@@ -15570,7 +16543,10 @@
     "Running time (int)": 96,
     "Budget (float)": 150000000.0,
     "Box office (float)": 310000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Bedtime Stories",
@@ -15625,7 +16601,10 @@
     "Running time (int)": 99,
     "Budget (float)": 80000000.0,
     "Box office (float)": 212900000.0,
-    "Release date (datetime)": "December 25, 2008"
+    "Release date (datetime)": "December 25, 2008",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Jonas Brothers: The 3D Concert Experience",
@@ -15670,7 +16649,10 @@
     "Running time (int)": 76,
     "Budget (float)": null,
     "Box office (float)": 30400000.0,
-    "Release date (datetime)": "February 27, 2009"
+    "Release date (datetime)": "February 27, 2009",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Race to Witch Mountain",
@@ -15721,7 +16703,10 @@
     "Running time (int)": 98,
     "Budget (float)": 50000000.0,
     "Box office (float)": 106400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Hannah Montana: The Movie",
@@ -15768,7 +16753,10 @@
     "Running time (int)": 97,
     "Budget (float)": 30000000.0,
     "Box office (float)": 155500000.0,
-    "Release date (datetime)": "April 10, 2009"
+    "Release date (datetime)": "April 10, 2009",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Earth",
@@ -15843,7 +16831,10 @@
     "Running time (int)": 99,
     "Budget (float)": 47000000.0,
     "Box office (float)": 109000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Boys: The Sherman Brothers' Story",
@@ -15888,7 +16879,10 @@
     "Running time (int)": 101,
     "Budget (float)": null,
     "Box office (float)": 55513.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Up",
@@ -15935,7 +16929,10 @@
     "Running time (int)": 96,
     "Budget (float)": 175000000.0,
     "Box office (float)": 735100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Lilly the Witch: The Dragon and the Magic Book",
@@ -15966,7 +16963,10 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "February 19, 2009"
+    "Release date (datetime)": "February 19, 2009",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "G-Force",
@@ -16013,7 +17013,10 @@
     "Running time (int)": 90,
     "Budget (float)": 150000000.0,
     "Box office (float)": 292800000.0,
-    "Release date (datetime)": "July 24, 2009"
+    "Release date (datetime)": "July 24, 2009",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Walt & El Grupo",
@@ -16034,7 +17037,10 @@
     "Running time (int)": 107,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tinker Bell and the Lost Treasure",
@@ -16066,7 +17072,10 @@
     "Running time (int)": 82,
     "Budget (float)": 35000000.0,
     "Box office (float)": 8600000.0,
-    "Release date (datetime)": "October 27, 2009"
+    "Release date (datetime)": "October 27, 2009",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Книга Мастеров",
@@ -16098,7 +17107,10 @@
     "Running time (int)": 101,
     "Budget (float)": 8000000.0,
     "Box office (float)": 11300000.0,
-    "Release date (datetime)": "October 29, 2009"
+    "Release date (datetime)": "October 29, 2009",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "A Christmas Carol",
@@ -16142,7 +17154,10 @@
     "Running time (int)": 96,
     "Budget (float)": 175000000.0,
     "Box office (float)": 325300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Old Dogs",
@@ -16190,7 +17205,10 @@
     "Running time (int)": 88,
     "Budget (float)": 35000000.0,
     "Box office (float)": 96800000.0,
-    "Release date (datetime)": "November 25, 2009"
+    "Release date (datetime)": "November 25, 2009",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Princess and the Frog",
@@ -16249,7 +17267,10 @@
     "Running time (int)": 97,
     "Budget (float)": 105000000.0,
     "Box office (float)": 271000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Alice in Wonderland",
@@ -16302,7 +17323,10 @@
     "Running time (int)": 108,
     "Budget (float)": 200000000.0,
     "Box office (float)": 1024999999.9999999,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Waking Sleeping Beauty",
@@ -16342,7 +17366,10 @@
     "Running time (int)": 85,
     "Budget (float)": null,
     "Box office (float)": 84918.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Oceans",
@@ -16405,7 +17432,10 @@
     "Running time (int)": 104,
     "Budget (float)": 80000000.0,
     "Box office (float)": 82700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Prince of Persia: The Sands of Time",
@@ -16454,7 +17484,10 @@
     "Running time (int)": 116,
     "Budget (float)": 150000000.0,
     "Box office (float)": 336400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Toy Story 3",
@@ -16505,7 +17538,10 @@
     "Running time (int)": 103,
     "Budget (float)": 200000000.0,
     "Box office (float)": 1067000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Sorcerer's Apprentice",
@@ -16558,7 +17594,10 @@
     "Running time (int)": 109,
     "Budget (float)": 150000000.0,
     "Box office (float)": 215300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Crimson Wing: Mystery of the Flamingos",
@@ -16606,7 +17645,10 @@
     "Running time (int)": 74,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tinker Bell and the Great Fairy Rescue",
@@ -16661,7 +17703,10 @@
     "Running time (int)": 79,
     "Budget (float)": 35000000.0,
     "Box office (float)": 10872752.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Secretariat",
@@ -16705,7 +17750,10 @@
     "Running time (int)": 123,
     "Budget (float)": 35000000.0,
     "Box office (float)": 60300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Do Dooni Chaar",
@@ -16741,7 +17789,10 @@
     "Running time (int)": 108,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "October 08, 2010"
+    "Release date (datetime)": "October 08, 2010",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tangled",
@@ -16783,7 +17834,10 @@
     "Running time (int)": 100,
     "Budget (float)": 260000000.0,
     "Box office (float)": 592400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tron: Legacy",
@@ -16836,7 +17890,10 @@
     "Running time (int)": 125,
     "Budget (float)": 170000000.0,
     "Box office (float)": 400100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Once Upon a Warrior",
@@ -16878,7 +17935,10 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "January 14, 2011"
+    "Release date (datetime)": "January 14, 2011",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Beverly Hills Chihuahua 2",
@@ -16928,7 +17988,10 @@
     "Running time (int)": 84,
     "Budget (float)": null,
     "Box office (float)": 29600000.0,
-    "Release date (datetime)": "February 01, 2011"
+    "Release date (datetime)": "February 01, 2011",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Lilly the Witch: The Journey to Mandolan",
@@ -16965,7 +18028,10 @@
     "Running time (int)": 90,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "February 17, 2011"
+    "Release date (datetime)": "February 17, 2011",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mars Needs Moms",
@@ -17015,7 +18081,10 @@
     "Running time (int)": 88,
     "Budget (float)": 150000000.0,
     "Box office (float)": 39200000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Zokkomon",
@@ -17047,7 +18116,10 @@
     "Running time (int)": 109,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "April 22, 2011"
+    "Release date (datetime)": "April 22, 2011",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "African Cats",
@@ -17092,7 +18164,10 @@
     "Running time (int)": 89,
     "Budget (float)": 5000000.0,
     "Box office (float)": 30900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Prom",
@@ -17134,7 +18209,10 @@
     "Running time (int)": 104,
     "Budget (float)": 8000000.0,
     "Box office (float)": 10700000.0,
-    "Release date (datetime)": "April 29, 2011"
+    "Release date (datetime)": "April 29, 2011",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pirates of the Caribbean: On Stranger Tides",
@@ -17192,7 +18270,10 @@
     "Running time (int)": 137,
     "Budget (float)": 410600000.0,
     "Box office (float)": 1046000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Cars 2",
@@ -17238,7 +18319,10 @@
     "Running time (int)": 106,
     "Budget (float)": 200000000.0,
     "Box office (float)": 559800000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Winnie the Pooh",
@@ -17301,7 +18385,10 @@
     "Running time (int)": 63,
     "Budget (float)": 30000000.0,
     "Box office (float)": 50100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Spooky Buddies",
@@ -17352,7 +18439,10 @@
     "Running time (int)": 88,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "September 20, 2011"
+    "Release date (datetime)": "September 20, 2011",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Muppets",
@@ -17393,7 +18483,10 @@
     "Running time (int)": 103,
     "Budget (float)": 45000000.0,
     "Box office (float)": 165200000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Treasure Buddies",
@@ -17441,7 +18534,10 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "January 31, 2012"
+    "Release date (datetime)": "January 31, 2012",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "John Carter",
@@ -17494,7 +18590,10 @@
     "Running time (int)": 132,
     "Budget (float)": 306600000.0,
     "Box office (float)": 284100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Chimpanzee",
@@ -17544,7 +18643,10 @@
     "Running time (int)": 77,
     "Budget (float)": 5000000.0,
     "Box office (float)": 34800000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Arjun: The Warrior Prince",
@@ -17576,7 +18678,10 @@
     "Running time (int)": 96,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "May 25, 2012"
+    "Release date (datetime)": "May 25, 2012",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Brave",
@@ -17627,7 +18732,10 @@
     "Running time (int)": 93,
     "Budget (float)": 185000000.0,
     "Box office (float)": 540400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Odd Life of Timothy Green",
@@ -17671,7 +18779,10 @@
     "Running time (int)": 100,
     "Budget (float)": 25000000.0,
     "Box office (float)": 56000000.0,
-    "Release date (datetime)": "August 15, 2012"
+    "Release date (datetime)": "August 15, 2012",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Beverly Hills Chihuahua 3: Viva la Fiesta!",
@@ -17710,7 +18821,10 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": 12200000.0,
-    "Release date (datetime)": "September 18, 2012"
+    "Release date (datetime)": "September 18, 2012",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Frankenweenie",
@@ -17758,7 +18872,10 @@
     "Running time (int)": 87,
     "Budget (float)": 39000000.0,
     "Box office (float)": 81500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Secret of the Wings",
@@ -17804,7 +18921,10 @@
     "Running time (int)": 75,
     "Budget (float)": 30.0,
     "Box office (float)": 67500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Wreck-It Ralph",
@@ -17845,7 +18965,10 @@
     "Running time (int)": 101,
     "Budget (float)": 165000000.0,
     "Box office (float)": 496500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Oz the Great and Powerful",
@@ -17894,7 +19017,10 @@
     "Running time (int)": 130,
     "Budget (float)": 215000000.0,
     "Box office (float)": 493300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Wings of Life",
@@ -17941,7 +19067,10 @@
     "Running time (int)": 77,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Monsters University",
@@ -17991,7 +19120,10 @@
     "Running time (int)": 104,
     "Budget (float)": 200000000.0,
     "Box office (float)": 743600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Lone Ranger",
@@ -18051,7 +19183,10 @@
     "Running time (int)": 149,
     "Budget (float)": 225000000.0,
     "Box office (float)": 260500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Planes",
@@ -18099,7 +19234,10 @@
     "Running time (int)": 92,
     "Budget (float)": 50000000.0,
     "Box office (float)": 240200000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Super Buddies",
@@ -18152,7 +19290,10 @@
     "Running time (int)": 81,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 27, 2013"
+    "Release date (datetime)": "August 27, 2013",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Frozen",
@@ -18202,7 +19343,10 @@
     "Running time (int)": 102,
     "Budget (float)": 150000000.0,
     "Box office (float)": 1285000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Saving Mr. Banks",
@@ -18256,7 +19400,10 @@
     "Running time (int)": 125,
     "Budget (float)": 35000000.0,
     "Box office (float)": 117900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Muppets Most Wanted",
@@ -18303,7 +19450,10 @@
     "Running time (int)": 107,
     "Budget (float)": 50000000.0,
     "Box office (float)": 80400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Pirate Fairy",
@@ -18355,7 +19505,10 @@
     "Running time (int)": 78,
     "Budget (float)": null,
     "Box office (float)": 63900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Bears",
@@ -18385,7 +19538,10 @@
     "Running time (int)": 77,
     "Budget (float)": 5000000.0,
     "Box office (float)": 21300000.0,
-    "Release date (datetime)": "April 18, 2014"
+    "Release date (datetime)": "April 18, 2014",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Million Dollar Arm",
@@ -18431,7 +19587,10 @@
     "Running time (int)": 124,
     "Budget (float)": 25000000.0,
     "Box office (float)": 40200000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Maleficent",
@@ -18475,7 +19634,10 @@
     "Running time (int)": 97,
     "Budget (float)": 180000000.0,
     "Box office (float)": 758500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Planes: Fire & Rescue",
@@ -18519,7 +19681,10 @@
     "Running time (int)": 84,
     "Budget (float)": 50000000.0,
     "Box office (float)": 147000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Khoobsurat",
@@ -18563,7 +19728,10 @@
     "Running time (int)": 127,
     "Budget (float)": 2900000.0,
     "Box office (float)": 9900000.0,
-    "Release date (datetime)": "September 19, 2014"
+    "Release date (datetime)": "September 19, 2014",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
@@ -18608,7 +19776,10 @@
     "Running time (int)": 81,
     "Budget (float)": 28000000.0,
     "Box office (float)": 100600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Big Hero 6",
@@ -18665,7 +19836,10 @@
     "Running time (int)": 102,
     "Budget (float)": 165000000.0,
     "Box office (float)": 657800000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Into the Woods",
@@ -18718,7 +19892,10 @@
     "Running time (int)": 124,
     "Budget (float)": 50000000.0,
     "Box office (float)": 213100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "McFarland, USA",
@@ -18764,7 +19941,10 @@
     "Running time (int)": 129,
     "Budget (float)": 17000000.0,
     "Box office (float)": 45700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tinker Bell and the Legend of the NeverBeast",
@@ -18813,7 +19993,10 @@
     "Running time (int)": 76,
     "Budget (float)": null,
     "Box office (float)": 31200000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Cinderella",
@@ -18865,7 +20048,10 @@
     "Running time (int)": 106,
     "Budget (float)": 90000000.0,
     "Box office (float)": 542400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Monkey Kingdom",
@@ -18900,7 +20086,10 @@
     "Running time (int)": 82,
     "Budget (float)": 5000000.0,
     "Box office (float)": 17100000.0,
-    "Release date (datetime)": "April 17, 2015"
+    "Release date (datetime)": "April 17, 2015",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tomorrowland",
@@ -18955,7 +20144,10 @@
     "Running time (int)": 130,
     "Budget (float)": 180000000.0,
     "Box office (float)": 209000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Inside Out",
@@ -19007,7 +20199,10 @@
     "Running time (int)": 95,
     "Budget (float)": 175000000.0,
     "Box office (float)": 858800000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "ABCD 2",
@@ -19047,7 +20242,10 @@
     "Running time (int)": 154,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "June 19, 2015"
+    "Release date (datetime)": "June 19, 2015",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Good Dinosaur",
@@ -19104,7 +20302,10 @@
     "Running time (int)": 94,
     "Budget (float)": 175000000.0,
     "Box office (float)": 332200000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Finest Hours",
@@ -19157,7 +20358,10 @@
     "Running time (int)": 117,
     "Budget (float)": 70000000.0,
     "Box office (float)": 52100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Zootopia",
@@ -19222,7 +20426,10 @@
     "Running time (int)": 108,
     "Budget (float)": 150000000.0,
     "Box office (float)": 1024999999.9999999,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Jungle Book",
@@ -19270,7 +20477,10 @@
     "Running time (int)": 106,
     "Budget (float)": 175000000.0,
     "Box office (float)": 966600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tini: The Movie",
@@ -19315,7 +20525,10 @@
     "Running time (int)": 99,
     "Budget (float)": null,
     "Box office (float)": 17000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Alice Through the Looking Glass",
@@ -19369,7 +20582,10 @@
     "Running time (int)": 113,
     "Budget (float)": 170000000.0,
     "Box office (float)": 299500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Finding Dory",
@@ -19416,7 +20632,10 @@
     "Running time (int)": 97,
     "Budget (float)": 200000000.0,
     "Box office (float)": 1028999999.9999999,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The BFG",
@@ -19469,7 +20688,10 @@
     "Running time (int)": 118,
     "Budget (float)": 140000000.0,
     "Box office (float)": 195200000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pete's Dragon",
@@ -19512,7 +20734,10 @@
     "Running time (int)": 103,
     "Budget (float)": 65000000.0,
     "Box office (float)": 143700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Queen of Katwe",
@@ -19559,7 +20784,10 @@
     "Running time (int)": 124,
     "Budget (float)": 15000000.0,
     "Box office (float)": 10400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Moana",
@@ -19617,7 +20845,10 @@
     "Running time (int)": 107,
     "Budget (float)": 150000000.0,
     "Box office (float)": 682600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Dangal",
@@ -19668,7 +20899,10 @@
     "Running time (int)": 161,
     "Budget (float)": 8800000.0,
     "Box office (float)": 250000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "March of the Penguins",
@@ -19706,7 +20940,10 @@
     "Running time (int)": 86,
     "Budget (float)": 8000000.0,
     "Box office (float)": 127400000.0,
-    "Release date (datetime)": "January 26, 2005"
+    "Release date (datetime)": "January 26, 2005",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Beauty and the Beast",
@@ -19756,7 +20993,10 @@
     "Running time (int)": 129,
     "Budget (float)": 160000000.0,
     "Box office (float)": 1266000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Born in China",
@@ -19813,7 +21053,10 @@
     "Running time (int)": 76,
     "Budget (float)": 5000000.0,
     "Box office (float)": 25100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -19869,7 +21112,10 @@
     "Running time (int)": 129,
     "Budget (float)": 230000000.0,
     "Box office (float)": 795900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Cars 3",
@@ -19923,7 +21169,10 @@
     "Running time (int)": 102,
     "Budget (float)": 175000000.0,
     "Box office (float)": 383900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Ghost of the Mountains",
@@ -19945,7 +21194,10 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "June 30, 2017"
+    "Release date (datetime)": "June 30, 2017",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Jagga Jasoos",
@@ -19995,7 +21247,10 @@
     "Running time (int)": 162,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "July 14, 2017"
+    "Release date (datetime)": "July 14, 2017",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Last Knight",
@@ -20056,7 +21311,10 @@
     "Running time (int)": 114,
     "Budget (float)": 8000000.0,
     "Box office (float)": 30500000.0,
-    "Release date (datetime)": "October 29, 2017"
+    "Release date (datetime)": "October 29, 2017",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Coco",
@@ -20107,7 +21365,10 @@
     "Running time (int)": 105,
     "Budget (float)": 175000000.0,
     "Box office (float)": 814300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "A Wrinkle in Time",
@@ -20158,7 +21419,10 @@
     "Running time (int)": 110,
     "Budget (float)": 100000000.0,
     "Box office (float)": 133199999.99999999,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Incredibles 2",
@@ -20204,7 +21468,10 @@
     "Running time (int)": 118,
     "Budget (float)": 200000000.0,
     "Box office (float)": 1243000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Christopher Robin",
@@ -20258,7 +21525,10 @@
     "Running time (int)": 104,
     "Budget (float)": 65000000.0,
     "Box office (float)": 197700000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Nutcracker and the Four Realms",
@@ -20305,7 +21575,10 @@
     "Running time (int)": 99,
     "Budget (float)": 120000000.0,
     "Box office (float)": 174000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Ralph Breaks the Internet",
@@ -20362,7 +21635,10 @@
     "Running time (int)": 112,
     "Budget (float)": 175000000.0,
     "Box office (float)": 529299999.99999994,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mary Poppins Returns",
@@ -20416,7 +21692,10 @@
     "Running time (int)": 131,
     "Budget (float)": 130000000.0,
     "Box office (float)": 349500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Dumbo",
@@ -20464,7 +21743,10 @@
     "Running time (int)": 112,
     "Budget (float)": 170000000.0,
     "Box office (float)": 353300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Penguins",
@@ -20497,7 +21779,10 @@
     "Running time (int)": 76,
     "Budget (float)": null,
     "Box office (float)": 7700000.0,
-    "Release date (datetime)": "April 17, 2019"
+    "Release date (datetime)": "April 17, 2019",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Aladdin",
@@ -20550,7 +21835,10 @@
     "Running time (int)": 128,
     "Budget (float)": 183000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Toy Story 4",
@@ -20614,7 +21902,10 @@
     "Running time (int)": 100,
     "Budget (float)": 200000000.0,
     "Box office (float)": 1073000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Lion King",
@@ -20665,7 +21956,10 @@
     "Running time (int)": 118,
     "Budget (float)": 250000000.0,
     "Box office (float)": 1663000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Maleficent: Mistress of Evil",
@@ -20720,7 +22014,10 @@
     "Running time (int)": 119,
     "Budget (float)": 186000000.0,
     "Box office (float)": 491700000.0,
-    "Release date (datetime)": "October 18, 2019"
+    "Release date (datetime)": "October 18, 2019",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Lady and the Tramp",
@@ -20771,7 +22068,10 @@
     "Running time (int)": 104,
     "Budget (float)": 60000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "November 12, 2019"
+    "Release date (datetime)": "November 12, 2019",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Noelle",
@@ -20803,7 +22103,10 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "November 12, 2019"
+    "Release date (datetime)": "November 12, 2019",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Frozen 2",
@@ -20854,7 +22157,10 @@
     "Running time (int)": 103,
     "Budget (float)": 150000000.0,
     "Box office (float)": 1453000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Togo",
@@ -20882,7 +22188,10 @@
     "Running time (int)": 114,
     "Budget (float)": 40000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "December 20, 2019"
+    "Release date (datetime)": "December 20, 2019",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Timmy Failure: Mistakes Were Made",
@@ -20928,7 +22237,10 @@
     "Running time (int)": 99,
     "Budget (float)": 42000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Onward",
@@ -20974,7 +22286,10 @@
     "Running time (int)": 102,
     "Budget (float)": 175000000.0,
     "Box office (float)": 142000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Stargirl",
@@ -21020,7 +22335,10 @@
     "Running time (int)": 107,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "March 13, 2020"
+    "Release date (datetime)": "March 13, 2020",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Dolphin Reef",
@@ -21053,7 +22371,10 @@
     "Running time (int)": 78,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Elephant",
@@ -21085,7 +22406,10 @@
     "Running time (int)": 86,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "April 03, 2020"
+    "Release date (datetime)": "April 03, 2020",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Artemis Fowl",
@@ -21130,7 +22454,10 @@
     "Running time (int)": 94,
     "Budget (float)": 125000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "June 12, 2020"
+    "Release date (datetime)": "June 12, 2020",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Hamilton",
@@ -21179,7 +22506,10 @@
     "Running time (int)": 160,
     "Budget (float)": 12500000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "July 03, 2020"
+    "Release date (datetime)": "July 03, 2020",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Black Is King",
@@ -21275,7 +22605,10 @@
     "Running time (int)": 85,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "July 31, 2020"
+    "Release date (datetime)": "July 31, 2020",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Magic Camp",
@@ -21323,7 +22656,10 @@
     "Running time (int)": 100,
     "Budget (float)": 24000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "August 14, 2020"
+    "Release date (datetime)": "August 14, 2020",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The One and Only Ivan",
@@ -21365,7 +22701,10 @@
     "Running time (int)": 95,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "August 21, 2020"
+    "Release date (datetime)": "August 21, 2020",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mulan",
@@ -21419,7 +22758,10 @@
     "Running time (int)": 115,
     "Budget (float)": 200000000.0,
     "Box office (float)": 69900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Godmothered",
@@ -21459,7 +22801,10 @@
     "Running time (int)": 110,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "December 04, 2020"
+    "Release date (datetime)": "December 04, 2020",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Safety",
@@ -21496,7 +22841,10 @@
     "Running time (int)": 122,
     "Budget (float)": 26000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "December 11, 2020"
+    "Release date (datetime)": "December 11, 2020",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Soul",
@@ -21549,7 +22897,10 @@
     "Running time (int)": 101,
     "Budget (float)": 150000000.0,
     "Box office (float)": 121000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Last Warrior: Root of Evil",
@@ -21613,7 +22964,10 @@
     "Running time (int)": 121,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Flora & Ulysses",
@@ -21652,7 +23006,10 @@
     "Running time (int)": 95,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "February 19, 2021"
+    "Release date (datetime)": "February 19, 2021",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Raya and the Last Dragon",
@@ -21718,7 +23075,10 @@
     "Running time (int)": 107,
     "Budget (float)": 100000000.0,
     "Box office (float)": 130400000.0,
-    "Release date (datetime)": "March 05, 2021"
+    "Release date (datetime)": "March 05, 2021",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Cruella",
@@ -21772,7 +23132,10 @@
     "Running time (int)": 134,
     "Budget (float)": 100000000.0,
     "Box office (float)": 233.5,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Luca",
@@ -21824,7 +23187,10 @@
     "Running time (int)": 95,
     "Budget (float)": null,
     "Box office (float)": 49800000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Jungle Cruise",
@@ -21882,7 +23248,10 @@
     "Running time (int)": 127,
     "Budget (float)": 200000000.0,
     "Box office (float)": 220900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Encanto",
@@ -21950,7 +23319,10 @@
     "Running time (int)": 102,
     "Budget (float)": 120000000.0,
     "Box office (float)": 256800000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Diary of a Wimpy Kid",
@@ -21987,7 +23359,10 @@
     "Running time (int)": 58,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "December 03, 2021"
+    "Release date (datetime)": "December 03, 2021",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Last Warrior: Emissary of Darkness",
@@ -22048,7 +23423,10 @@
     "Running time (int)": 108,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "December 23, 2021"
+    "Release date (datetime)": "December 23, 2021",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Ice Age Adventures of Buck Wild",
@@ -22096,7 +23474,10 @@
     "Running time (int)": 82,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "January 28, 2022"
+    "Release date (datetime)": "January 28, 2022",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Turning Red",
@@ -22151,7 +23532,10 @@
     "Running time (int)": 100,
     "Budget (float)": 175000000.0,
     "Box office (float)": 20100000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Cheaper by the Dozen",
@@ -22196,7 +23580,10 @@
     "Running time (int)": 107,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Better Nate Than Ever",
@@ -22237,7 +23624,10 @@
     "Running time (int)": 91,
     "Budget (float)": 36000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Polar Bear",
@@ -22265,7 +23655,10 @@
     "Running time (int)": 84,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "April 22, 2022"
+    "Release date (datetime)": "April 22, 2022",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Chip 'n Dale: Rescue Rangers",
@@ -22318,7 +23711,10 @@
     "Running time (int)": 97,
     "Budget (float)": 70000000.0,
     "Box office (float)": 623190.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Hollywood Stargirl",
@@ -22370,7 +23766,10 @@
     "Running time (int)": 105,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Lightyear",
@@ -22420,7 +23819,10 @@
     "Running time (int)": 105,
     "Budget (float)": 200000000.0,
     "Box office (float)": 226400000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Rise",
@@ -22458,7 +23860,10 @@
     "Running time (int)": 111,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "June 24, 2022"
+    "Release date (datetime)": "June 24, 2022",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Pinocchio",
@@ -22512,7 +23917,10 @@
     "Running time (int)": 105,
     "Budget (float)": 150000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "September 08, 2022"
+    "Release date (datetime)": "September 08, 2022",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Hocus Pocus 2",
@@ -22558,7 +23966,10 @@
     "Running time (int)": 103,
     "Budget (float)": 40000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "September 30, 2022"
+    "Release date (datetime)": "September 30, 2022",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Disenchanted",
@@ -22611,7 +24022,10 @@
     "Running time (int)": 119,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Strange World",
@@ -22651,7 +24065,10 @@
     "Running time (int)": 102,
     "Budget (float)": 135000000.0,
     "Box office (float)": 73600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Diary of a Wimpy Kid: Rodrick Rules",
@@ -22690,7 +24107,10 @@
     "Running time (int)": 75,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "December 02, 2022"
+    "Release date (datetime)": "December 02, 2022",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Night at the Museum: Kahmunrah Rises Again",
@@ -22744,7 +24164,10 @@
     "Running time (int)": 77,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "December 09, 2022"
+    "Release date (datetime)": "December 09, 2022",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Chang Can Dunk",
@@ -22786,7 +24209,10 @@
     "Running time (int)": 109,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "March 10, 2023"
+    "Release date (datetime)": "March 10, 2023",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Peter Pan & Wendy",
@@ -22829,7 +24255,10 @@
     "Running time (int)": 109,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "April 28, 2023"
+    "Release date (datetime)": "April 28, 2023",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Crater",
@@ -22869,7 +24298,10 @@
     "Running time (int)": 105,
     "Budget (float)": 53400000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "May 12, 2023"
+    "Release date (datetime)": "May 12, 2023",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Little Mermaid",
@@ -22903,7 +24335,7 @@
     "Music by": "Alan Menken",
     "Production companies": [
       "Walt Disney Pictures",
-      "Lucamar Productions",
+      "DeLuca Marshall",
       "Marc Platt Productions"
     ],
     "Distributed by": [
@@ -22922,7 +24354,10 @@
     "Running time (int)": 135,
     "Budget (float)": 300000000.0,
     "Box office (float)": 569600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Elemental",
@@ -22972,7 +24407,10 @@
     "Running time (int)": 109,
     "Budget (float)": 200000000.0,
     "Box office (float)": 493300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "World's Best",
@@ -23008,7 +24446,10 @@
     "Running time (int)": 101,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "June 23, 2023"
+    "Release date (datetime)": "June 23, 2023",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Indiana Jones and the Dial of Destiny",
@@ -23065,7 +24506,10 @@
     "Running time (int)": 154,
     "Budget (float)": 295000000.0,
     "Box office (float)": 383900000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Haunted Mansion",
@@ -23110,7 +24554,10 @@
     "Running time (int)": 123,
     "Budget (float)": 150000000.0,
     "Box office (float)": 116500000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Dashing Through the Snow",
@@ -23141,7 +24588,10 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "November 17, 2023"
+    "Release date (datetime)": "November 17, 2023",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Wish",
@@ -23155,7 +24605,7 @@
     ],
     "Produced by": [
       "Peter Del Vecho",
-      "Juan Pablo Reyes Lancaster-Jones"
+      "Juan Pablo Reyes"
     ],
     "Starring": [
       "Ariana DeBose",
@@ -23196,7 +24646,10 @@
     "Running time (int)": 92,
     "Budget (float)": 200000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "November 22, 2023"
+    "Release date (datetime)": "November 22, 2023",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Diary of a Wimpy Kid Christmas: Cabin Fever",
@@ -23225,7 +24678,10 @@
     "Running time (int)": 95,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "December 08, 2023"
+    "Release date (datetime)": "December 08, 2023",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Elio",
@@ -23258,7 +24714,10 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "March 01, 2024"
+    "Release date (datetime)": "March 01, 2024",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Snow White",
@@ -23300,7 +24759,10 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "March 22, 2024"
+    "Release date (datetime)": "March 22, 2024",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Inside Out",
@@ -23352,7 +24814,10 @@
     "Running time (int)": 95,
     "Budget (float)": 175000000.0,
     "Box office (float)": 858800000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Mufasa: The Lion King",
@@ -23393,7 +24858,10 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "July 05, 2024"
+    "Release date (datetime)": "July 05, 2024",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Moana",
@@ -23451,40 +24919,10 @@
     "Running time (int)": 107,
     "Budget (float)": 150000000.0,
     "Box office (float)": 682600000.0,
-    "Release date (datetime)": null
-  },
-  {
-    "title": "Young Woman and the Sea",
-    "Directed by": "Joachim Rønning",
-    "Screenplay by": "Jeff Nathanson",
-    "Based on": [
-      "Young Woman and the Sea: How Trudy Ederle Conquered the English Channel and Inspired the World",
-      "by Glenn Stout"
-    ],
-    "Produced by": [
-      "Jerry Bruckheimer",
-      "Chad Oman"
-    ],
-    "Starring": [
-      "Daisy Ridley",
-      "Tilda Cobham-Hervey",
-      "Yordan Angelov",
-      "Anton Poryazov"
-    ],
-    "Cinematography": "Óscar Faura",
-    "Edited by": "Úna Ní Dhonghaíle",
-    "Music by": "Amelia Warner",
-    "Production companies": [
-      "Walt Disney Pictures",
-      "Jerry Bruckheimer Films"
-    ],
-    "Distributed by": "Disney+",
-    "Country": "United States",
-    "Language": "English",
-    "Running time (int)": null,
-    "Budget (float)": null,
-    "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
@@ -23529,7 +24967,10 @@
     "Running time (int)": 81,
     "Budget (float)": 28000000.0,
     "Box office (float)": 100600000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Lilo & Stitch",
@@ -23567,7 +25008,10 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Bambi",
@@ -23619,7 +25063,10 @@
     "Running time (int)": 70,
     "Budget (float)": 858000.0,
     "Box office (float)": 267399999.99999997,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Father of the Bride",
@@ -23641,7 +25088,10 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Flight of the Navigator",
@@ -23687,7 +25137,10 @@
     "Running time (int)": 90,
     "Budget (float)": 9000000.0,
     "Box office (float)": 18600000.0,
-    "Release date (datetime)": "August 01, 1986"
+    "Release date (datetime)": "August 01, 1986",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Hercules",
@@ -23746,7 +25199,10 @@
     "Running time (int)": 93,
     "Budget (float)": 85000000.0,
     "Box office (float)": 252700000.0,
-    "Release date (datetime)": "June 13, 1997"
+    "Release date (datetime)": "June 13, 1997",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Hunchback of Notre Dame",
@@ -23798,7 +25254,10 @@
     "Running time (int)": 91,
     "Budget (float)": 70000000.0,
     "Box office (float)": 325300000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Inspector Gadget",
@@ -23859,7 +25318,10 @@
     "Running time (int)": 78,
     "Budget (float)": 75000000.0,
     "Box office (float)": 134400000.0,
-    "Release date (datetime)": "July 23, 1999"
+    "Release date (datetime)": "July 23, 1999",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "National Treasure: Book of Secrets",
@@ -23923,7 +25385,10 @@
     "Running time (int)": 124,
     "Budget (float)": 130000000.0,
     "Box office (float)": 459200000.0,
-    "Release date (datetime)": "December 21, 2007"
+    "Release date (datetime)": "December 21, 2007",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "",
@@ -23956,7 +25421,10 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "SpaceCamp",
@@ -24001,7 +25469,10 @@
     "Running time (int)": 107,
     "Budget (float)": 18000000.0,
     "Box office (float)": 9697739.0,
-    "Release date (datetime)": "June 06, 1986"
+    "Release date (datetime)": "June 06, 1986",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "",
@@ -24034,7 +25505,10 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Aristocats",
@@ -24084,7 +25558,10 @@
     "Running time (int)": 79,
     "Budget (float)": 4000000.0,
     "Box office (float)": 191000000.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Parent Trap",
@@ -24109,7 +25586,10 @@
     "Running time (int)": 508,
     "Budget (float)": 15000000.0,
     "Box office (float)": 106759044.0,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Three Men and a Baby",
@@ -24154,7 +25634,10 @@
     "Running time (int)": 102,
     "Budget (float)": 11.0,
     "Box office (float)": 240000000.0,
-    "Release date (datetime)": "November 25, 1987"
+    "Release date (datetime)": "November 25, 1987",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Tinker Bell",
@@ -24198,7 +25681,10 @@
     "Running time (int)": 468,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "The Rocketeer",
@@ -24253,7 +25739,10 @@
     "Running time (int)": 108,
     "Budget (float)": 35000000.0,
     "Box office (float)": 46700000.0,
-    "Release date (datetime)": "June 21, 1991"
+    "Release date (datetime)": "June 21, 1991",
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   },
   {
     "title": "Zootopia",
@@ -24318,6 +25807,9 @@
     "Running time (int)": 108,
     "Budget (float)": 150000000.0,
     "Box office (float)": 1024999999.9999999,
-    "Release date (datetime)": null
+    "Release date (datetime)": null,
+    "imdb": 8.0,
+    "metascore": 78.0,
+    "rotten_tomatoes": 98.0
   }
 ]
